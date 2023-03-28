@@ -6,7 +6,11 @@ title: Isaac Newtons's CV
 Ph.D. Candidate at the University of Pennsylvania
 
 <div id="webaddress">
-  Website: <a href="https://niccdias.com">University profile</a>
+  [GitHub Pages](https://pages.github.com/).
+  
+  
+  
+  []
   </br>
   Email: <a href="niccdias@sas.upenn.edu">niccdias@sas.upenn.edu</a>
   </br>
@@ -16,8 +20,8 @@ Ph.D. Candidate at the University of Pennsylvania
 ## Education
 
 `Present`
-__University of Pennsylvania__
-Ph.D. in Political Communication
+Ph.D. in Political Communication, **University of Pennsylvania**
+
 - Joint program between the Political Science Department and the Annenberg School for Communication
 - Advisors: Yphtach Lelkes and Matthew S. Levendusky 
 
