@@ -1,29 +1,26 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Nicholas C. Dias's Academic CV
 ---
+
 # Nicholas C. Dias
 Ph.D. Candidate at the University of Pennsylvania
 
+
+
 <div id="webaddress">
-  [GitHub Pages](https://pages.github.com/).
-  
-  
-  
-  []
-  </br>
-  Email: <a href="niccdias@sas.upenn.edu">niccdias@sas.upenn.edu</a>
-  </br>
-  Google Scholar: <a href="https://scholar.google.com/citations?user=XudGcdkAAAAJ">Google Scholar</a>
+<a href="https://niccdias.com/">Website</a> | <a href="mailto:niccdias@sas.upenn.edu">Email</a> | <a href="https://scholar.google.com/citations?user=XudGcdkAAAAJ">Google Scholar</a>
 </div>
+
+
 
 ## Education
 
 `Present`
 Ph.D. in Political Communication, **University of Pennsylvania**
 
-- Joint program between the Political Science Department and the Annenberg School for Communication
-- Advisors: Yphtach Lelkes and Matthew S. Levendusky 
+> Joint program between the Political Science Department and the Annenberg School for Communication
+> Advisors: Yphtach Lelkes and Matthew S. Levendusky 
 
 `2017`
 
@@ -32,6 +29,7 @@ M.S. in Journalism
 `2015`
 
 B.A. in Psychology and Communication
+
 
 
 ## Awards & Funding
@@ -49,13 +47,17 @@ Understanding misinformation on mobile instant messengers: A study in Brazil, In
 
 Do Fact-Checks Slow the Spread of Misinformation on Facebook and Twitter? Social Science One. $50,000. w/ Matthew A. Baum,  David Lazer, Briony Swire-Thompson, and Nicholas Beauchamp.
 
+
+
 ## Teaching
+
 `Fall 2021`
 Teaching Assistant. Introduction to Politics. Prof. Michele Margolis.
 
 `Fall 2020`
-
 Teaching Assistant. Introduction to Data Science. Instructors Marc Trussler and Stephew Pettigrew.
+
+
 
 ## Refereed Journal Articles
 
@@ -68,7 +70,6 @@ Dias, N. C. & Sippitt, A. (2020). Researching Fact Checking: Present Limitations
 Dias, N. C., Pennycook, G. & Rand, D. G. (2020). Emphasizing publishers does not effectively reduce susceptibility to misinformation on social media. Harvard Kennedy School Misinformation Review. https://doi.org/10.37016/mr-2020-001.
 
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ## Working Papers
 
@@ -77,6 +78,7 @@ Dias, N. C. & Lelkes, Y. Is It Really That Easy? Explicating and Reconsidering t
 Dias, N. C. Are You Who I Think? Using Policy Preferences and Values to Judge Others.
 
 Dias, N. C., Druckman, J. N., & Levendusky, M. S. Speech Norms in Contemporary America: The Realities and Misperceptions of “Cancel Culture”. 
+
 
 
 ## Invited Talks
