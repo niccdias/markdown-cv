@@ -2,13 +2,13 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
+# Nicholas C. Dias
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-  <a href="https://niccdias.com">University profile</a>
-  <a href="niccdias@sas.upenn.edu">niccdias@sas.upenn.edu</a>
-  <a href="https://scholar.google.com/citations?user=XudGcdkAAAAJ">Google Scholar</a>
+  Website: <a href="https://niccdias.com">University profile</a>
+  Email: <a href="niccdias@sas.upenn.edu">niccdias@sas.upenn.edu</a>
+  Google Scholar: <a href="https://scholar.google.com/citations?user=XudGcdkAAAAJ">Google Scholar</a>
 </div>
 
 ## Education
