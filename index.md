@@ -3,11 +3,13 @@ layout: cv
 title: Isaac Newtons's CV
 ---
 # Nicholas C. Dias
-Physicist, Mathematician, Cambridge professor.
+Ph.D. Candidate at the University of Pennsylvania
 
 <div id="webaddress">
   Website: <a href="https://niccdias.com">University profile</a>
+  </br>
   Email: <a href="niccdias@sas.upenn.edu">niccdias@sas.upenn.edu</a>
+  </br>
   Google Scholar: <a href="https://scholar.google.com/citations?user=XudGcdkAAAAJ">Google Scholar</a>
 </div>
 
@@ -15,16 +17,17 @@ Physicist, Mathematician, Cambridge professor.
 
 `Present`
 __University of Pennsylvania__
-
-PhD in Political Communication
+Ph.D. in Political Communication
+- Joint program between the Political Science Department and the Annenberg School for Communication
+- Advisors: Yphtach Lelkes and Matthew S. Levendusky 
 
 `2017`
 
-MS in Journalism
+M.S. in Journalism
 
 `2015`
 
-BA in Psychology and Communication
+B.A. in Psychology and Communication
 
 
 ## Awards & Funding
