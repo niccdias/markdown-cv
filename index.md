@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Nicholas C. Dias's Academic CV
+title: Nicholas C. Dias's CV
 ---
 
 # Nicholas C. Dias
@@ -17,10 +17,11 @@ Ph.D. Candidate at the University of Pennsylvania
 ## Education
 
 `Present`
-Ph.D. in Political Communication, **University of Pennsylvania**
+Ph.D. in Political Communication, University of Pennsylvania
 
-> Joint program between the Political Science Department and the Annenberg School for Communication
-> Advisors: Yphtach Lelkes and Matthew S. Levendusky 
+*Joint program between the Political Science Department and the Annenberg School for Communication*
+
+*Advisors: Yphtach Lelkes and Matthew S. Levendusky*
 
 `2017`
 
