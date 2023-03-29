@@ -55,7 +55,9 @@ Do Fact-Checks Slow the Spread of Misinformation on Facebook and Twitter? Social
 
 
 
-## Refereed Journal Articles
+## Research
+
+### Refereed Journal Articles
 `2022` **Dias, N. C.** & Lelkes, Y. *The Nature of Affective Polarization: Disentangling Policy Disagreement from Partisan Identity.* American Journal of Political Science. [https://doi.org/10.1111/ajps.12628](https://doi.org/10.1111/ajps.12628).
 
 `2021` Holbert, R. L., **Dias, N. C.**, Hardy, B. W., Jamieson, K. H., Levendusky, M. S., Renninger, A. S., Romer, D., Winneg, K. M., & Pasek, J. *Exploring the Role of Media Use Within an Integrated Behavioral Model (IBM) Approach to Vote Likelihood.* American Behavioral Scientist, 65(3), 412–431. [https://doi.org/10.1177/0002764220975054](https://doi.org/10.1177/0002764220975054).
@@ -64,15 +66,12 @@ Do Fact-Checks Slow the Spread of Misinformation on Facebook and Twitter? Social
 
 **Dias, N. C.**, Pennycook, G. & Rand, D. G. *Emphasizing publishers does not effectively reduce susceptibility to misinformation on social media.* Harvard Kennedy School Misinformation Review. [https://doi.org/10.37016/mr-2020-001](https://doi.org/10.37016/mr-2020-001).
 
-
-
-## Working Papers
+### Working Papers
 **Dias, N. C.**, Druckman, J. N., & Levendusky, M. S. *How and Why Americans Misperceive the Prevalence of, and Motives Behind, “Cancel Culture”.* [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4235680](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4235680).
- 
 
 **Dias, N. C.** & Lelkes, Y. *Is It Really That Easy? Reconsidering the Easy-Hard Issue Distinction in American Politics.* [https://osf.io/gnctw/](https://osf.io/gnctw/).
 
-**Dias, N. C.** *Why the Mass Public Values Each Other’s Policy Preferences.* [https://osf.io/j2anv/](https://osf.io/j2anv/).
+**Dias, N. C.** _Why the Mass Public Values Each Other’s Policy Preferences._ [https://osf.io/j2anv/](https://osf.io/j2anv/).
 
 
 ## Invited Talks
@@ -103,11 +102,11 @@ Monitoring and mining Facebook and Twitter. Talk at Universidad Santo Tomas, Bog
 
 ## Service to the Discipline
 
-</br>
+### Committees
+`2022` Distinguished Junior Scholar Selection Committee.
 
 ### Ad Hoc Reviewer
 American Journal of Political Science, Journal of Politics, Research & Politics, Harvard Kennedy School Misinformation Review
-
 
 <!-- ### Footer
 
