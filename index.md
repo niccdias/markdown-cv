@@ -49,22 +49,22 @@ Do Fact-Checks Slow the Spread of Misinformation on Facebook and Twitter? Social
 
 
 ## Teaching
-`Fall 2021` Teaching Assistant. Introduction to Politics. Prof. Michele Margolis.
+`2021` Teaching Assistant. Introduction to Politics. Prof. Michele Margolis.
 
-`Fall 2020` Teaching Assistant. Introduction to Data Science. Instructors Marc Trussler and Stephew Pettigrew.
+`2020` Teaching Assistant. Introduction to Data Science. Instructors Marc Trussler and Stephew Pettigrew.
 
 
 
 ## Research
 
 ### Peer-Reviewed Articles
-`2022` **Dias, N. C.** & Lelkes, Y. *The Nature of Affective Polarization: Disentangling Policy Disagreement from Partisan Identity.* American Journal of Political Science. [https://doi.org/10.1111/ajps.12628](https://doi.org/10.1111/ajps.12628).
+`2022` **Dias, N. C.** & Lelkes, Y. The Nature of Affective Polarization: Disentangling Policy Disagreement from Partisan Identity. American Journal of Political Science. [https://doi.org/10.1111/ajps.12628](https://doi.org/10.1111/ajps.12628).
 
-`2021` Holbert, R. L., **Dias, N. C.**, Hardy, B. W., Jamieson, K. H., Levendusky, M. S., Renninger, A. S., Romer, D., Winneg, K. M., & Pasek, J. *Exploring the Role of Media Use Within an Integrated Behavioral Model (IBM) Approach to Vote Likelihood.* American Behavioral Scientist, 65(3), 412–431. [https://doi.org/10.1177/0002764220975054](https://doi.org/10.1177/0002764220975054).
+`2021` Holbert, R. L., **Dias, N. C.**, Hardy, B. W., Jamieson, K. H., Levendusky, M. S., Renninger, A. S., Romer, D., Winneg, K. M., & Pasek, J. Exploring the Role of Media Use Within an Integrated Behavioral Model (IBM) Approach to Vote Likelihood. American Behavioral Scientist, 65(3), 412–431. [https://doi.org/10.1177/0002764220975054](https://doi.org/10.1177/0002764220975054).
 
-`2020` **Dias, N. C.** & Sippitt, A. *Researching Fact Checking: Present Limitations and Future Opportunities.* The Political Quarterly, 91(3), 605–613. [https://doi.org/10.1111/1467-923x.12892](https://doi.org/10.1111/1467-923x.12892).
+`2020` **Dias, N. C.** & Sippitt, A. Researching Fact Checking: Present Limitations and Future Opportunities. The Political Quarterly, 91(3), 605–613. [https://doi.org/10.1111/1467-923x.12892](https://doi.org/10.1111/1467-923x.12892).
 
-**Dias, N. C.**, Pennycook, G. & Rand, D. G. *Emphasizing publishers does not effectively reduce susceptibility to misinformation on social media.* Harvard Kennedy School Misinformation Review. [https://doi.org/10.37016/mr-2020-001](https://doi.org/10.37016/mr-2020-001).
+**Dias, N. C.**, Pennycook, G. & Rand, D. G. Emphasizing publishers does not effectively reduce susceptibility to misinformation on social media. Harvard Kennedy School Misinformation Review. [https://doi.org/10.37016/mr-2020-001](https://doi.org/10.37016/mr-2020-001).
 
 ### Working Papers
 **Dias, N. C.**, Druckman, J. N., & Levendusky, M. S. *How and Why Americans Misperceive the Prevalence of, and Motives Behind, “Cancel Culture”.* [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4235680](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4235680).
@@ -91,13 +91,13 @@ Monitoring and mining Facebook and Twitter. Talk at Universidad Santo Tomas, Bog
 
 
 ## Service to the Department
-`2022–2023` Representative, Graduate Student Organization. Department of Political Science, University of Pennsylvania.
+`2022–23` Representative, Graduate Student Organization. Department of Political Science, University of Pennsylvania.
 
-`2021–2022` Event Coordinator, Democracy and Information Group. Annenberg School for Communication.
+`2021–22` Event Coordinator, Democracy and Information Group. Annenberg School for Communication.
 
 `2020` President, Graduate Student Council. Annenberg School for Communication.
 
-`2019–2020` Treasurer, Graduate Student Council. Annenberg School for Communication.
+`2019–20` Treasurer, Graduate Student Council. Annenberg School for Communication.
 
 
 ## Service to the Discipline
