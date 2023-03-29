@@ -57,7 +57,7 @@ Do Fact-Checks Slow the Spread of Misinformation on Facebook and Twitter? Social
 
 ## Research
 
-### Refereed Journal Articles
+### Peer-Reviewed Articles
 `2022` **Dias, N. C.** & Lelkes, Y. *The Nature of Affective Polarization: Disentangling Policy Disagreement from Partisan Identity.* American Journal of Political Science. [https://doi.org/10.1111/ajps.12628](https://doi.org/10.1111/ajps.12628).
 
 `2021` Holbert, R. L., **Dias, N. C.**, Hardy, B. W., Jamieson, K. H., Levendusky, M. S., Renninger, A. S., Romer, D., Winneg, K. M., & Pasek, J. *Exploring the Role of Media Use Within an Integrated Behavioral Model (IBM) Approach to Vote Likelihood.* American Behavioral Scientist, 65(3), 412–431. [https://doi.org/10.1177/0002764220975054](https://doi.org/10.1177/0002764220975054).
