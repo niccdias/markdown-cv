@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Nicholas C. Dias's CV
+title: CV – Nicholas C. Dias
 ---
 
 # Nicholas C. Dias
@@ -15,11 +15,9 @@ Ph.D. Candidate at the University of Pennsylvania
 
 
 ## Education
-`Present` **Ph.D. in Political Communication, University of Pennsylvania**
+`Present` **Ph.D. in Political Science and Communication, University of Pennsylvania**
 
-Joint program between the Political Science Department and the Annenberg School for Communication*
-
-Advisors: Yphtach Lelkes and Matthew S. Levendusky*
+Advisors: Yphtach Lelkes and Matthew S. Levendusky
 
 `2017` **M.S. in Journalism, Columbia University**
 
@@ -27,9 +25,7 @@ Master's Project: “Companies, countries still violating UN shipping sanctions 
 
 Advisor: Jonathan Stray
 
-Concentration in computational and data journalism
-
-Graduated with Honors
+Concentration in computational and data journalism. Graduated with Honors.
 
 `2015` **B.A. in Psychology and Communication, University of California, Davis**
 
@@ -37,13 +33,7 @@ Honors Thesis: “Resolving adult attachment theory and relational dialectics: I
 
 Advisor: Catherine Puckering
 
-Graduated with Highest Honors
-
-Accepted into University Honors Program
-
-Dean’s Honor List for 8 quarters
-
-Phi Beta Kappa and Phi Kappa Phi
+Graduated with Highest Honors. Dean’s Honor List for 8 quarters. Phi Beta Kappa and Phi Kappa Phi.
 
 ## Awards & Funding
 `2022` Penn Prize for Excellence in Teaching by Graduate Students. University of Pennsylvania.
@@ -66,23 +56,23 @@ Do Fact-Checks Slow the Spread of Misinformation on Facebook and Twitter? Social
 
 
 ## Refereed Journal Articles
-`2022` **Dias, N. C.** & Lelkes, Y. (2022). The Nature of Affective Polarization: Disentangling Policy Disagreement from Partisan Identity. American Journal of Political Science. https://doi.org/10.1111/ajps.12628.
+`2022` **Dias, N. C.** & Lelkes, Y. *The Nature of Affective Polarization: Disentangling Policy Disagreement from Partisan Identity.* American Journal of Political Science. [https://doi.org/10.1111/ajps.12628](https://doi.org/10.1111/ajps.12628).
 
-`2021` Holbert, R. L., **Dias, N. C.**, Hardy, B. W., Jamieson, K. H., Levendusky, M. S., Renninger, A. S., Romer, D., Winneg, K. M., & Pasek, J. (2021). Exploring the Role of Media Use Within an Integrated Behavioral Model (IBM) Approach to Vote Likelihood. American Behavioral Scientist, 65(3), 412–431. https://doi.org/10.1177/0002764220975054.
+`2021` Holbert, R. L., **Dias, N. C.**, Hardy, B. W., Jamieson, K. H., Levendusky, M. S., Renninger, A. S., Romer, D., Winneg, K. M., & Pasek, J. *Exploring the Role of Media Use Within an Integrated Behavioral Model (IBM) Approach to Vote Likelihood.* American Behavioral Scientist, 65(3), 412–431. [https://doi.org/10.1177/0002764220975054](https://doi.org/10.1177/0002764220975054).
 
-`2020` **Dias, N. C.** & Sippitt, A. (2020). Researching Fact Checking: Present Limitations and Future Opportunities. The Political Quarterly, 91(3), 605–613. https://doi.org/10.1111/1467-923x.12892.
+`2020` **Dias, N. C.** & Sippitt, A. *Researching Fact Checking: Present Limitations and Future Opportunities.* The Political Quarterly, 91(3), 605–613. [https://doi.org/10.1111/1467-923x.12892](https://doi.org/10.1111/1467-923x.12892).
 
-**Dias, N. C.**, Pennycook, G. & Rand, D. G. (2020). Emphasizing publishers does not effectively reduce susceptibility to misinformation on social media. Harvard Kennedy School Misinformation Review. https://doi.org/10.37016/mr-2020-001.
+**Dias, N. C.**, Pennycook, G. & Rand, D. G. *Emphasizing publishers does not effectively reduce susceptibility to misinformation on social media.* Harvard Kennedy School Misinformation Review. [https://doi.org/10.37016/mr-2020-001](https://doi.org/10.37016/mr-2020-001).
 
 
 
 ## Working Papers
-**Dias, N. C.** & Lelkes, Y. Is It Really That Easy? Explicating and Reconsidering the Easy-Hard Issue Distinction in American Politics.
+**Dias, N. C.**, Druckman, J. N., & Levendusky, M. S. *How and Why Americans Misperceive the Prevalence of, and Motives Behind, “Cancel Culture”.* [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4235680](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4235680).
+ 
 
-**Dias, N. C.** Are You Who I Think? Using Policy Preferences and Values to Judge Others.
+**Dias, N. C.** & Lelkes, Y. *Is It Really That Easy? Reconsidering the Easy-Hard Issue Distinction in American Politics.* [https://osf.io/gnctw/](https://osf.io/gnctw/).
 
-**Dias, N. C.**, Druckman, J. N., & Levendusky, M. S. Speech Norms in Contemporary America: The Realities and Misperceptions of “Cancel Culture”. 
-
+**Dias, N. C.** *Why the Mass Public Values Each Other’s Policy Preferences.* [https://osf.io/j2anv/](https://osf.io/j2anv/).
 
 
 ## Invited Talks
@@ -104,11 +94,11 @@ Monitoring and mining Facebook and Twitter. Talk at Universidad Santo Tomas, Bog
 ## Service to the Department
 `2022–2023` Representative, Graduate Student Organization. Department of Political Science, University of Pennsylvania.
 
-`2021-2022` Event Coordinator, Democracy and Information Group. Annenberg School for Communication.
+`2021–2022` Event Coordinator, Democracy and Information Group. Annenberg School for Communication.
 
 `2020` President, Graduate Student Council. Annenberg School for Communication.
 
-`2019-2020` Treasurer, Graduate Student Council. Annenberg School for Communication.
+`2019–2020` Treasurer, Graduate Student Council. Annenberg School for Communication.
 
 
 ## Service to the Discipline
