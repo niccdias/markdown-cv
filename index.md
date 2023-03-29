@@ -23,17 +23,26 @@ Advisors: Yphtach Lelkes and Matthew S. Levendusky
 
 Master's Project: “Companies, countries still violating UN shipping sanctions against North Korea”
 
-Advisor: Jonathan Stray
-
 Concentration in computational and data journalism. Graduated with Honors.
 
 `2015` **B.A. in Psychology and Communication, University of California, Davis**
 
 Honors Thesis: “Resolving adult attachment theory and relational dialectics: Is the need for independence always present?”
 
-Advisor: Catherine Puckering
-
 Graduated with Highest Honors. Dean’s Honor List for 8 quarters. Phi Beta Kappa and Phi Kappa Phi.
+
+
+
+## Research Employment
+`2017–19` **Researcher, Shorenstein Center on Media Politics and Public Policy, Harvard Kennedy School of Government**
+
+Led research undertaken by the Center’s anti-misinformation initiative, the Information Disorder (ID) Lab, and helped devise the social-network monitoring processes for the Lab. 
+
+`2017` **First Draft News, Senior Research Fellow**
+
+Led research on social bots targeting the 2017 UK General Election, devised social-network monitoring processes for First Draft's election projects, and wrote editorials and teaching materials.
+
+
 
 ## Awards & Funding
 `2022` Penn Prize for Excellence in Teaching by Graduate Students. University of Pennsylvania.
@@ -58,7 +67,7 @@ Do Fact-Checks Slow the Spread of Misinformation on Facebook and Twitter? Social
 ## Research
 
 ### Peer-Reviewed Articles
-`2022` **Dias, N. C.** & Lelkes, Y. The Nature of Affective Polarization: Disentangling Policy Disagreement from Partisan Identity. <em>American Journal of Political Science.</em> [https://doi.org/10.1111/ajps.12628](https://doi.org/10.1111/ajps.12628).
+`2022` **Dias, N. C.** & Lelkes, Y. The Nature of Affective Polarization: Disentangling Policy Disagreement from Partisan Identity. American Journal of Political Science. [https://doi.org/10.1111/ajps.12628](https://doi.org/10.1111/ajps.12628).
 
 `2021` Holbert, R. L., **Dias, N. C.**, Hardy, B. W., Jamieson, K. H., Levendusky, M. S., Renninger, A. S., Romer, D., Winneg, K. M., & Pasek, J. Exploring the Role of Media Use Within an Integrated Behavioral Model (IBM) Approach to Vote Likelihood. American Behavioral Scientist, 65(3), 412–431. [https://doi.org/10.1177/0002764220975054](https://doi.org/10.1177/0002764220975054).
 
