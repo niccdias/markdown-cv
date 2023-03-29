@@ -16,22 +16,35 @@ Ph.D. Candidate at the University of Pennsylvania
 
 ## Education
 
-`Present`
-Ph.D. in Political Communication, University of Pennsylvania
+`Present` **Ph.D. in Political Communication, University of Pennsylvania**
 
-*Joint program between the Political Science Department and the Annenberg School for Communication*
+Joint program between the Political Science Department and the Annenberg School for Communication*
 
-*Advisors: Yphtach Lelkes and Matthew S. Levendusky*
+Advisors: Yphtach Lelkes and Matthew S. Levendusky*
 
-`2017`
+`2017` **M.S. in Journalism, Columbia University**
 
-M.S. in Journalism
+Master's Project: “Companies, countries still violating UN shipping sanctions against North Korea”
 
-`2015`
+Advisor: Jonathan Stray
 
-B.A. in Psychology and Communication
+Concentration in computational and data journalism
 
+Graduated with Honors
 
+`2015` **B.A. in Psychology and Communication, University of California, Davis**
+
+Honors Thesis: “Resolving adult attachment theory and relational dialectics: Is the need for independence always present?”
+
+Advisor: Catherine Puckering
+
+Graduated with Highest Honors
+
+Accepted into University Honors Program
+
+Dean’s Honor List for 8 quarters
+
+Phi Beta Kappa and Phi Kappa Phi
 
 ## Awards & Funding
 
