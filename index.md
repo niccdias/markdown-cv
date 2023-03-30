@@ -87,7 +87,13 @@ Baum, M. A., Lazer, D., Grinberg, N., Swire-Thompson, B., Beauchamp, N., **Dias,
 
 
 ## Invited Talks
-`2022` "Are You Who I Think? Using Policy Preferences and Values to Judge Others." Talk at the University of Massachusetts.
+`2022` "Is it Really that Easy? Reconsidering 'Easy' and 'Hard' Issues in American Politics." American Political Science Association Conference.
+
+"What Drives Cancel Culture?" American Political Science Association Conference.
+
+"Is it Really that Easy? Reconsidering 'Easy' and 'Hard' Issues in American Politics." Midwestern Political Science Association Conference.
+
+"Are You Who I Think? Using Policy Preferences and Values to Judge Others." Talk at the University of Massachusetts.
 
 "Explicating and Reconsidering the Easy-Hard Issue Distinction in American Politics." Talk at the University of Amsterdam.
 
