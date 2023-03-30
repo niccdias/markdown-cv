@@ -89,6 +89,8 @@ Baum, M. A., Lazer, D., Grinberg, N., Swire-Thompson, B., Beauchamp, N., **Dias,
 ## Invited Talks
 `2022` "Is it Really that Easy? Reconsidering 'Easy' and 'Hard' Issues in American Politics." American Political Science Association Conference.
 
+"Speech Norms in Contemporary America: The Realities and Misperceptions of 'Cancel Culture'." Aarhus ’22 Conference on Online Hostility and Bystanders.
+
 "What Drives Cancel Culture?" American Political Science Association Conference.
 
 "Is it Really that Easy? Reconsidering 'Easy' and 'Hard' Issues in American Politics." Midwestern Political Science Association Conference.
