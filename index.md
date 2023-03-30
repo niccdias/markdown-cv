@@ -78,6 +78,8 @@ Baum, M. A., Lazer, D., Grinberg, N., Swire-Thompson, B., Beauchamp, N., **Dias,
 ### Working Papers
 **Dias, N. C.**, Druckman, J. N., & Levendusky, M. S. "How and Why Americans Misperceive the Prevalence of, and Motives Behind, 'Cancel Culture'." [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4235680](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4235680).
 
+**Dias, N. C.**, Pearl, J., & Lelkes, Y. "American partisans misperceive the diversity, not the extremity, of other partisans' attitudes." [https://bit.ly/3M7IB7r](https://bit.ly/3M7IB7r).
+
 **Dias, N. C.** & Lelkes, Y. "Is It Really That Easy? Reconsidering the Easy-Hard Issue Distinction in American Politics." [https://osf.io/gnctw/](https://osf.io/gnctw/).
 
 **Dias, N. C.** "Why the Mass Public Values Each Other’s Policy Preferences." [https://osf.io/j2anv/](https://osf.io/j2anv/).
@@ -101,12 +103,12 @@ Baum, M. A., Lazer, D., Grinberg, N., Swire-Thompson, B., Beauchamp, N., **Dias,
 
 
 
-## Invited Talks
-`2017` **Dias, N. C.** "How Academics Can Help Platforms Tackle Disinformation.” Understanding and Addressing the Disinformation Ecosystem, University of Pennsylvania, Philadelphia, PA.
+## Selected Op-Eds and Reports
+`2017` **Dias, N. C.** "How Academics Can Help Platforms Tackle Disinformation.” Understanding and Addressing the Disinformation Ecosystem, University of Pennsylvania, Philadelphia, PA. [https://bit.ly/3ziIFcU](https://bit.ly/3ziIFcU).
 
-**Dias, N. C.** “The Era of Whatsapp Propaganda Is Upon Us.” Foreign Policy.
+**Dias, N. C.** “The Era of Whatsapp Propaganda Is Upon Us.” Foreign Policy. [https://foreignpolicy.com/2017/08/17/the-era-of-whatsapp-propaganda-is-upon-us/](https://foreignpolicy.com/2017/08/17/the-era-of-whatsapp-propaganda-is-upon-us/).
 
-**Dias, N. C.**, Kamal, R. & Bastien, L. “What makes a good FOIA request? We studied 33,000 to find out.” Columbia Journalism Review.
+**Dias, N. C.**, Kamal, R. & Bastien, L. “What makes a good FOIA request? We studied 33,000 to find out.” Columbia Journalism Review. [https://www.cjr.org/analysis/foia-request-how-to-study.php](https://www.cjr.org/analysis/foia-request-how-to-study.php).
 
 
 
