@@ -17,11 +17,11 @@ Ph.D. Candidate
 ## Education
 `Present` **Ph.D. in Political Science and Communication, University of Pennsylvania**
 
-Advisors: Yphtach Lelkes and Matthew S. Levendusky
+Advisors: Yphtach Lelkes and Matthew S. Levendusky.
 
 `2017` **M.S. in Journalism, Columbia University**
 
-Master's Project: “Companies, countries still violating UN shipping sanctions against North Korea”
+Master's Project: “Companies, countries still violating UN shipping sanctions against North Korea.”
 
 Concentration in computational and data journalism. Graduated with Honors.
 
@@ -128,7 +128,7 @@ Baum, M. A., Lazer, D., Grinberg, N., Swire-Thompson, B., Beauchamp, N., **Dias,
 `2022` Member, Distinguished Junior Scholar Award Committee, Political Psychology Division, American Political Science Association.
 
 ### Ad Hoc Reviewer
-American Political Science Review, American Journal of Political Science, Journal of Politics, Political Behavior, Public Opinion Quarterly, Research & Politics, Harvard Kennedy School Misinformation Review, Time-Sharing Experiments for the Social Sciences
+American Political Science Review, American Journal of Political Science, Journal of Politics, Political Behavior, Public Opinion Quarterly, Research & Politics, Harvard Kennedy School Misinformation Review, Time-Sharing Experiments for the Social Sciences.
 
 <!-- ### Footer
 
