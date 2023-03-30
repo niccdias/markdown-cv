@@ -125,10 +125,10 @@ Baum, M. A., Lazer, D., Grinberg, N., Swire-Thompson, B., Beauchamp, N., **Dias,
 ## Service to the Discipline
 
 ### Committees
-`2022` Distinguished Junior Scholar Selection Committee.
+`2022` Member, Distinguished Junior Scholar Award Committee, Political Psychology Division, American Political Science Association.
 
 ### Ad Hoc Reviewer
-American Journal of Political Science, Journal of Politics, Research & Politics, Harvard Kennedy School Misinformation Review
+American Political Science Review, American Journal of Political Science, Journal of Politics, Political Behavior, Public Opinion Quarterly, Research & Politics, Harvard Kennedy School Misinformation Review, Time-Sharing Experiments for the Social Sciences
 
 <!-- ### Footer
 
