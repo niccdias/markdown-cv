@@ -66,6 +66,8 @@ Baum, M. A., Lazer, D., Grinberg, N., Swire-Thompson, B., Beauchamp, N., **Dias,
 
 ## Research
 
+<br/>
+
 ### Peer-Reviewed Articles
 `2022` **Dias, N. C.** & Lelkes, Y. "The Nature of Affective Polarization: Disentangling Policy Disagreement from Partisan Identity." American Journal of Political Science. [https://doi.org/10.1111/ajps.12628](https://doi.org/10.1111/ajps.12628).
 
@@ -131,6 +133,8 @@ Baum, M. A., Lazer, D., Grinberg, N., Swire-Thompson, B., Beauchamp, N., **Dias,
 
 
 ## Service to the Discipline
+
+<br/>
 
 ### Committees
 `2022` Member, Distinguished Junior Scholar Award Committee, Political Psychology Division, American Political Science Association.
