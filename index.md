@@ -66,7 +66,7 @@ Baum, M. A., Lazer, D., Grinberg, N., Swire-Thompson, B., Beauchamp, N., **Dias,
 
 ## Research
 
-<br/>
+<p style="margin-top:3cm;">
 
 ### Peer-Reviewed Articles
 `2022` **Dias, N. C.** & Lelkes, Y. "The Nature of Affective Polarization: Disentangling Policy Disagreement from Partisan Identity." American Journal of Political Science. [https://doi.org/10.1111/ajps.12628](https://doi.org/10.1111/ajps.12628).
@@ -86,7 +86,7 @@ Baum, M. A., Lazer, D., Grinberg, N., Swire-Thompson, B., Beauchamp, N., **Dias,
 
 **Dias, N. C.** "Why the Mass Public Values Each Other’s Policy Preferences." [https://osf.io/j2anv/](https://osf.io/j2anv/).
 
-
+</p>
 
 ## Invited Talks
 `2022` "Is it Really that Easy? Reconsidering 'Easy' and 'Hard' Issues in American Politics." American Political Science Association Conference.
@@ -134,13 +134,15 @@ Baum, M. A., Lazer, D., Grinberg, N., Swire-Thompson, B., Beauchamp, N., **Dias,
 
 ## Service to the Discipline
 
-<br/>
+<p style="margin-top:3cm;">
 
 ### Committees
 `2022` Member, Distinguished Junior Scholar Award Committee, Political Psychology Division, American Political Science Association.
 
 ### Ad Hoc Reviewer
 American Political Science Review, American Journal of Political Science, Journal of Politics, Political Behavior, Public Opinion Quarterly, Research & Politics, Harvard Kennedy School Misinformation Review, Time-Sharing Experiments for the Social Sciences.
+
+</p>
 
 <!-- ### Footer
 
