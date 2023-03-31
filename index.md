@@ -4,12 +4,12 @@ title: Nicholas C. Dias
 ---
 
 # Nicholas C. Dias
-Ph.D. Candidate
+Ph.D. Candidate at the University of Pennsylvania
 
 
 
 <div id="webaddress">
-<a href="https://niccdias.com/">Website</a> | <a href="mailto:niccdias@sas.upenn.edu">Email</a> | <a href="https://scholar.google.com/citations?user=XudGcdkAAAAJ">Google Scholar</a>
+<a href="https://niccdias.com/">Website</a>  |  <a href="mailto:niccdias@sas.upenn.edu">Email</a>  |  <a href="https://scholar.google.com/citations?user=XudGcdkAAAAJ">Google Scholar</a>
 </div>
 
 
