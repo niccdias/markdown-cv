@@ -188,5 +188,9 @@ strong {
 	visibility: hidden;
 }
 
+#content {
+  	max-width: 500px;
+}
+
 
 
