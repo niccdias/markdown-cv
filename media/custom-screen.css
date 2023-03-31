@@ -185,7 +185,9 @@ strong {
 	display: none;
 }
 
-
+#content {
+  	max-width: 500px;
+}
 
 /*
 @media only screen and (max-width: 480px) {
