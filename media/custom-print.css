@@ -73,7 +73,7 @@ code {
 	font: normal normal;
 	font-size: 80%;
 	/*line-height: 1em;*/
-	font-family: Arial, sans-serif;
+	font-family: Georgia, serif;
 	color: #ccc;
 }
 
@@ -128,7 +128,6 @@ h1 {
 
 h1+p { 
 	/*subtitle*/
-	font-style: italic;
 	font-size: 110%;
 }
 
@@ -167,7 +166,7 @@ a:hover {
 	position: relative;
 	left: 28%;
 	color: #ccc;
-	font-family: Arial, sans-serif;
+	font-family: Georgia, serif;
 	font-size: 80%;
 }
 
