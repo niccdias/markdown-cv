@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: CV – Nicholas C. Dias
+title: Nicholas C. Dias
 ---
 
 # Nicholas C. Dias
