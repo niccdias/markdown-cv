@@ -152,6 +152,7 @@ h3 {
 }
 
 a {
+	font-family: monospace;
 	color: inherit;
 	/*text-decoration:none*/
 }
