@@ -44,26 +44,6 @@ Led research on social bots targeting the 2017 UK General Election, devised soci
 
 
 
-## Awards & Funding
-`2022` Penn Prize for Excellence in Teaching by Graduate Students. University of Pennsylvania.
-
-`2021` Distinguished Junior Scholar in Political Psychology. American Political Science Association.
-
-`2018` Baum, M. A. & **Dias, N. C.** "Understanding misinformation on mobile instant messengers: A study in Brazil, India, Myanmar, Nigeria, and Pakistan." Bill & Melinda Gates Foundation. $200,000.
-
-Baum, M. A. & **Dias, N. C.** "Understanding misinformation on mobile instant messengers: A study in Brazil, India, Myanmar, Nigeria, and Pakistan." Omidyar Network. $180,000.
-
-Baum, M. A., Lazer, D., Grinberg, N., Swire-Thompson, B., Beauchamp, N., **Dias, N. C.** & Hickey, C. "Do Fact-Checks Slow the Spread of Misinformation on Facebook and Twitter?" Social Science One. $50,000.
-
-
-
-## Teaching
-`2021` Teaching Assistant. Introduction to Politics. Prof. Michele Margolis.
-
-`2020` Teaching Assistant. Introduction to Data Science. Instructors Marc Trussler and Stephew Pettigrew.
-
-
-
 ## Research
 
 ### Peer-Reviewed Articles
@@ -120,6 +100,26 @@ Baum, M. A., Lazer, D., Grinberg, N., Swire-Thompson, B., Beauchamp, N., **Dias,
 
 
 
+## Awards & Funding
+`2022` Penn Prize for Excellence in Teaching by Graduate Students. University of Pennsylvania.
+
+`2021` Distinguished Junior Scholar in Political Psychology. American Political Science Association.
+
+`2018` Baum, M. A. & **Dias, N. C.** "Understanding misinformation on mobile instant messengers: A study in Brazil, India, Myanmar, Nigeria, and Pakistan." Bill & Melinda Gates Foundation. $200,000.
+
+Baum, M. A. & **Dias, N. C.** "Understanding misinformation on mobile instant messengers: A study in Brazil, India, Myanmar, Nigeria, and Pakistan." Omidyar Network. $180,000.
+
+Baum, M. A., Lazer, D., Grinberg, N., Swire-Thompson, B., Beauchamp, N., **Dias, N. C.** & Hickey, C. "Do Fact-Checks Slow the Spread of Misinformation on Facebook and Twitter?" Social Science One. $50,000.
+
+
+
+## Teaching
+`2021` Teaching Assistant. Introduction to Politics. Prof. Michele Margolis.
+
+`2020` Teaching Assistant. Introduction to Data Science. Instructors Marc Trussler and Stephew Pettigrew.
+
+
+
 ## Service to the Department
 `2022–23` Representative, Graduate Student Organization. Department of Political Science, University of Pennsylvania.
 
@@ -128,6 +128,7 @@ Baum, M. A., Lazer, D., Grinberg, N., Swire-Thompson, B., Beauchamp, N., **Dias,
 `2020` President, Graduate Student Council. Annenberg School for Communication.
 
 `2019–20` Treasurer, Graduate Student Council. Annenberg School for Communication.
+
 
 
 ## Service to the Discipline
