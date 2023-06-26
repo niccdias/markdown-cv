@@ -58,7 +58,7 @@ Led research on social bots targeting the 2017 UK General Election, devised soci
 ### Working Papers
 **Dias, N. C.**, Druckman, J. N., & Levendusky, M. S. "How and Why Americans Misperceive the Prevalence of, and Motives Behind, 'Cancel Culture'." [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4235680](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4235680).
 
-**Dias, N. C.**, Pearl, J., & Lelkes, Y. "American partisans misperceive the diversity, not the extremity, of other partisans' attitudes." [https://bit.ly/3M7IB7r](https://bit.ly/3M7IB7r).
+**Dias, N. C.**, Pearl, J., & Lelkes, Y. "American Partisans Vastly (and Consequentially) Underestimate the Diversity of Other Partisans' Attitudes." [https://bit.ly/3M7IB7r](https://bit.ly/3M7IB7r).
 
 **Dias, N. C.** & Lelkes, Y. "Is It Really That Easy? Reconsidering the Easy-Hard Issue Distinction in American Politics." [https://osf.io/gnctw/](https://osf.io/gnctw/).
 
