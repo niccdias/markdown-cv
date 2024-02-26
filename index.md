@@ -47,6 +47,8 @@ Led research on social bots targeting the 2017 UK General Election, devised soci
 ## Research
 
 ### Peer-Reviewed Articles
+`2024` **Dias, N. C.**, Druckman, J. N., & Levendusky, M. S. "Unraveling a 'Cancel Culture' Dynamic: When and Why Americans Sanction Offensive Speech." Accepted pending replication at the Journal of Politics. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4235680](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4235680).
+
 `2022` **Dias, N. C.** & Lelkes, Y. "The Nature of Affective Polarization: Disentangling Policy Disagreement from Partisan Identity." American Journal of Political Science. [https://doi.org/10.1111/ajps.12628](https://doi.org/10.1111/ajps.12628).
 
 `2021` Holbert, R. L., **Dias, N. C.**, Hardy, B. W., Jamieson, K. H., Levendusky, M. S., Renninger, A. S., Romer, D., Winneg, K. M., & Pasek, J. "Exploring the Role of Media Use Within an Integrated Behavioral Model (IBM) Approach to Vote Likelihood." American Behavioral Scientist, 65(3), 412–431. [https://doi.org/10.1177/0002764220975054](https://doi.org/10.1177/0002764220975054).
@@ -56,13 +58,9 @@ Led research on social bots targeting the 2017 UK General Election, devised soci
 **Dias, N. C.**, Pennycook, G. & Rand, D. G. "Emphasizing publishers does not effectively reduce susceptibility to misinformation on social media." Harvard Kennedy School Misinformation Review. [https://doi.org/10.37016/mr-2020-001](https://doi.org/10.37016/mr-2020-001).
 
 ### Working Papers
-**Dias, N. C.**, Druckman, J. N., & Levendusky, M. S. "How and Why Americans Misperceive the Prevalence of, and Motives Behind, 'Cancel Culture'." [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4235680](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4235680).
+**Dias, N. C.** & Lelkes, Y. "Measuring Policy Understanding: Self-Assessments Match or Outperform Objective Measures." [https://osf.io/gnctw/](https://osf.io/gnctw/).
 
-**Dias, N. C.**, Pearl, J., & Lelkes, Y. "American Partisans Vastly (and Consequentially) Underestimate the Diversity of Other Partisans' Attitudes." [https://bit.ly/3M7IB7r](https://bit.ly/3M7IB7r).
-
-**Dias, N. C.** & Lelkes, Y. "Is It Really That Easy? Reconsidering the Easy-Hard Issue Distinction in American Politics." [https://osf.io/gnctw/](https://osf.io/gnctw/).
-
-**Dias, N. C.** "Why the Mass Public Values Each Other’s Policy Preferences." [https://osf.io/j2anv/](https://osf.io/j2anv/).
+**Dias, N. C.**, Pearl, J., & Lelkes, Y. "American Partisans Vastly Underestimate the Diversity of Other Partisans' Attitudes." [https://osf.io/preprints/osf/spm5x](https://osf.io/preprints/osf/spm5x).
 
 
 
