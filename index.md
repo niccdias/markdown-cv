@@ -99,6 +99,10 @@ Led research on social bots targeting the 2017 UK General Election, devised soci
 
 
 ## Awards & Funding
+`2024` Junior Fellowship. Institute for Humane Studies.
+
+`2023` Publication Accelerator Grant. Institute for Humane Studies. $5,000.
+
 `2022` Penn Prize for Excellence in Teaching by Graduate Students. University of Pennsylvania.
 
 `2021` Distinguished Junior Scholar in Political Psychology. American Political Science Association.
