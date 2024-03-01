@@ -92,7 +92,7 @@ Led research on social bots targeting the 2017 UK General Election, devised soci
 ## Selected Op-Eds and Reports
 `2017` **Dias, N. C.** "How Academics Can Help Platforms Tackle Disinformation.” Understanding and Addressing the Disinformation Ecosystem, University of Pennsylvania, Philadelphia, PA. [https://bit.ly/3ziIFcU](https://bit.ly/3ziIFcU).
 
-**Dias, N. C.** “The Era of Whatsapp Propaganda Is Upon Us.” Foreign Policy. [https://foreignpolicy.com/2017/08/17/the-era-of-whatsapp-propaganda-is-upon-us/](https://foreignpolicy.com/2017/08/17/the-era-of-whatsapp-propaganda-is-upon-us/).
+**Dias, N. C.** “The Era of Whatsapp Propaganda Is Upon Us.” Foreign Policy. [https://foreignpolicy.com/2017/08/17/the-era-of-whatsapp-propaganda-is-upon-us](https://foreignpolicy.com/2017/08/17/the-era-of-whatsapp-propaganda-is-upon-us).
 
 **Dias, N. C.**, Kamal, R. & Bastien, L. “What makes a good FOIA request? We studied 33,000 to find out.” Columbia Journalism Review. [https://www.cjr.org/analysis/foia-request-how-to-study.php](https://www.cjr.org/analysis/foia-request-how-to-study.php).
 
@@ -118,7 +118,7 @@ Baum, M. A., Lazer, D., Grinberg, N., Swire-Thompson, B., Beauchamp, N., **Dias,
 ## Teaching
 `2021` Teaching Assistant. Introduction to Politics. Prof. Michele Margolis.
 
-`2020` Teaching Assistant. Introduction to Data Science. Instructors Marc Trussler and Stephew Pettigrew.
+`2020` Teaching Assistant. Introduction to Data Science. Instructors Marc Trussler and Stephen Pettigrew.
 
 
 
