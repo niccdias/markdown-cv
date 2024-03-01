@@ -47,7 +47,7 @@ Led research on social bots targeting the 2017 UK General Election, devised soci
 ## Research
 
 ### Peer-Reviewed Articles
-`2024` **Dias, N. C.**, Druckman, J. N., & Levendusky, M. S. "Unraveling a 'Cancel Culture' Dynamic: When and Why Americans Sanction Offensive Speech." Accepted pending replication at the Journal of Politics. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4235680](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4235680).
+`2024` **Dias, N. C.**, Druckman, J. N., & Levendusky, M. S. "Unraveling a 'Cancel Culture' Dynamic: When and Why Americans Sanction Offensive Speech." Conditionally accepted at the Journal of Politics. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4235680](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4235680).
 
 `2022` **Dias, N. C.** & Lelkes, Y. "The Nature of Affective Polarization: Disentangling Policy Disagreement from Partisan Identity." American Journal of Political Science. [https://doi.org/10.1111/ajps.12628](https://doi.org/10.1111/ajps.12628).
 
