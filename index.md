@@ -58,7 +58,7 @@ Led research on social bots targeting the 2017 UK General Election, devised soci
 **Dias, N. C.**, Pennycook, G. & Rand, D. G. "Emphasizing publishers does not effectively reduce susceptibility to misinformation on social media." Harvard Kennedy School Misinformation Review. [https://doi.org/10.37016/mr-2020-001](https://doi.org/10.37016/mr-2020-001).
 
 ### Working Papers
-**Dias, N. C.** & Lelkes, Y. "Measuring Policy Understanding: Self-Assessments Match or Outperform Objective Measures." [https://osf.io/gnctw/](https://osf.io/gnctw/).
+**Dias, N. C.** & Lelkes, Y. "Measuring Policy Understanding: Self-Assessments Match or Outperform Objective Measures." [https://osf.io/gnctw](https://osf.io/gnctw).
 
 **Dias, N. C.**, Pearl, J., & Lelkes, Y. "American Partisans Vastly Underestimate the Diversity of Other Partisans' Attitudes." [https://osf.io/spm5x](https://osf.io/spm5x).
 
