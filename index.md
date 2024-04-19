@@ -47,17 +47,21 @@ Led research on social bots targeting the 2017 UK General Election, devised soci
 ## Research
 
 ### Peer-Reviewed Articles
-`2024` **Dias, N. C.**, Druckman, J. N., & Levendusky, M. S. "Unraveling a 'Cancel Culture' Dynamic: When and Why Americans Sanction Offensive Speech." Forthcoming at the Journal of Politics. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4235680](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4235680).
+`2024` **Dias, N. C.**, Druckman, J. N., & Levendusky, M. S. "Unraveling a 'Cancel Culture' Dynamic: When and Why Americans Sanction Offensive Speech." Forthcoming at _the Journal of Politics_. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4235680](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4235680).
 
-`2022` **Dias, N. C.** & Lelkes, Y. "The Nature of Affective Polarization: Disentangling Policy Disagreement from Partisan Identity." American Journal of Political Science. [https://doi.org/10.1111/ajps.12628](https://doi.org/10.1111/ajps.12628).
+`2022` **Dias, N. C.** & Lelkes, Y. "The Nature of Affective Polarization: Disentangling Policy Disagreement from Partisan Identity." _American Journal of Political Science_. [https://doi.org/10.1111/ajps.12628](https://doi.org/10.1111/ajps.12628).
 
-`2021` Holbert, R. L., **Dias, N. C.**, Hardy, B. W., Jamieson, K. H., Levendusky, M. S., Renninger, A. S., Romer, D., Winneg, K. M., & Pasek, J. "Exploring the Role of Media Use Within an Integrated Behavioral Model (IBM) Approach to Vote Likelihood." American Behavioral Scientist, 65(3), 412–431. [https://doi.org/10.1177/0002764220975054](https://doi.org/10.1177/0002764220975054).
+`2021` Holbert, R. L., **Dias, N. C.**, Hardy, B. W., Jamieson, K. H., Levendusky, M. S., Renninger, A. S., Romer, D., Winneg, K. M., & Pasek, J. "Exploring the Role of Media Use Within an Integrated Behavioral Model (IBM) Approach to Vote Likelihood." _American Behavioral Scientist_, 65(3), 412–431. [https://doi.org/10.1177/0002764220975054](https://doi.org/10.1177/0002764220975054).
 
-`2020` **Dias, N. C.** & Sippitt, A. "Researching Fact Checking: Present Limitations and Future Opportunities." The Political Quarterly, 91(3), 605–613. [https://doi.org/10.1111/1467-923x.12892](https://doi.org/10.1111/1467-923x.12892).
+`2020` **Dias, N. C.** & Sippitt, A. "Researching Fact Checking: Present Limitations and Future Opportunities." _The Political Quarterly_, 91(3), 605–613. [https://doi.org/10.1111/1467-923x.12892](https://doi.org/10.1111/1467-923x.12892).
 
-**Dias, N. C.**, Pennycook, G. & Rand, D. G. "Emphasizing publishers does not effectively reduce susceptibility to misinformation on social media." Harvard Kennedy School Misinformation Review. [https://doi.org/10.37016/mr-2020-001](https://doi.org/10.37016/mr-2020-001).
+**Dias, N. C.**, Pennycook, G. & Rand, D. G. "Emphasizing publishers does not effectively reduce susceptibility to misinformation on social media." _Harvard Kennedy School Misinformation Review_. [https://doi.org/10.37016/mr-2020-001](https://doi.org/10.37016/mr-2020-001).
 
 ### Working Papers
+**Dias, N. C.** "The Just Public: Americans Broadly Prefer Policies that Distribute Benefits Fairly."
+
+**Dias, N. C.** "Dumb Americans or Bad Assumptions? Underestimating the Competence of the American Public."
+
 **Dias, N. C.** & Lelkes, Y. "Measuring Policy Understanding: Self-Assessments Match or Outperform Objective Measures." [https://osf.io/gnctw](https://osf.io/gnctw).
 
 **Dias, N. C.**, Pearl, J., & Lelkes, Y. "American Partisans Vastly Underestimate the Diversity of Other Partisans' Attitudes." [https://osf.io/spm5x](https://osf.io/spm5x).
