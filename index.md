@@ -69,6 +69,22 @@ Led research on social bots targeting the 2017 UK General Election, devised soci
 
 
 ## Invited Talks
+`2024` "Correcting the Illusion of Incompetence: `Just' Preferences as a Fairer Standard of Citizen Competence." Midwestern Political Science Association Conference.
+
+"Distributive Justice Principles Broadly Structure the Mass Public's Policy Preferences." Midwestern Political Science Association Conference.
+
+`2023` "The Currency of Distributive Justice in Real-World Policy Discussions." PPE Society Seventh Annual Meeting.
+
+"Fair Judgments of Principled Preferences: How Distributive Justice Influences Citizens' Policy Preferences." Talk for the Aarhus University Political Behavior section.
+
+"American Partisans Vastly Underestimate the Diversity of Other Partisans’ Attitudes." Nordic Workshop on Political Behavior.
+
+"Americans Misperceive the Diversity, Not the Extremity, of Partisans' Attitudes." American Political Science Association Conference.
+
+"Why the Mass Public Values Each Other's Policy Preferences." Junior Americanist Workshop.
+
+"Americans Misperceive the Diversity, Not the Extremity, of Partisans' Attitudes." Midwestern Political Science Association Conference.
+
 `2022` "Is it Really that Easy? Reconsidering 'Easy' and 'Hard' Issues in American Politics." American Political Science Association Conference.
 
 "Speech Norms in Contemporary America: The Realities and Misperceptions of 'Cancel Culture'." Aarhus ’22 Conference on Online Hostility and Bystanders.
