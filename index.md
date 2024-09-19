@@ -47,11 +47,11 @@ Led research on social bots targeting the 2017 UK General Election, devised soci
 ## Research
 
 ### Peer-Reviewed Articles
-`2024` **Dias, N.C.**, Aarslew, L.F., Frederiksen, K.V.F., Lelkes, Y., Pradella, L., & Westwood, S.J. "Correcting misperceptions of partisan opponents is not effective at treating democratic ills." Forthcoming at _PNAS Nexus_.
+`2024` **Dias, N.C.**, Lelkes, Y., & Pearl, J. "American Partisans Vastly Underestimate the Diversity of Other Partisans' Attitudes." Forthcoming at _Political Science Research and Methods_.
 
-**Dias, N.C.**, Lelkes, Y., & Pearl, J. "American Partisans Vastly Underestimate the Diversity of Other Partisans' Attitudes." Forthcoming at _Political Science Research and Methods_.
+**Dias, N.C.**, Druckman, J.N., & Levendusky, M.S. "Unraveling a 'Cancel Culture' Dynamic: When and Why Americans Sanction Offensive Speech." Forthcoming at _the Journal of Politics_. [https://www.journals.uchicago.edu/doi/10.1086/733004](https://www.journals.uchicago.edu/doi/10.1086/733004).
 
-**Dias, N.C.**, Druckman, J.N., & Levendusky, M.S. "Unraveling a 'Cancel Culture' Dynamic: When and Why Americans Sanction Offensive Speech." Forthcoming at _the Journal of Politics_. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4235680](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4235680).
+**Dias, N.C.**, Aarslew, L.F., Frederiksen, K.V.F., Lelkes, Y., Pradella, L., & Westwood, S.J. "Correcting misperceptions of partisan opponents is not effective at treating democratic ills." _PNAS Nexus_. [https://academic.oup.com/pnasnexus/article/3/8/pgae304/7730165](https://academic.oup.com/pnasnexus/article/3/8/pgae304/7730165).
 
 `2022` **Dias, N.C.** & Lelkes, Y. "The Nature of Affective Polarization: Disentangling Policy Disagreement from Partisan Identity." _American Journal of Political Science_. [https://doi.org/10.1111/ajps.12628](https://doi.org/10.1111/ajps.12628).
 
