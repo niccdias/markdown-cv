@@ -121,6 +121,8 @@ Led research on social bots targeting the 2017 UK General Election, devised soci
 
 
 ## Awards & Funding
+`2025` Honorable Mention for Best Paper in Political Behavior. "Do Citizens' Policy Opinions Match Their Goals? Applying a New Test of Vertical Constraint." Midwestern Political Science Association. 
+
 `2024` Junior Fellowship. Institute for Humane Studies.
 
 `2023` Publication Accelerator Grant. Institute for Humane Studies. $5,000.
