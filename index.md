@@ -47,11 +47,11 @@ Led research on social bots targeting the 2017 UK General Election, devised soci
 ## Research
 
 ### Peer-Reviewed Articles
-`2024` **Dias, N.C.**, Lelkes, Y., & Pearl, J. "American Partisans Vastly Underestimate the Diversity of Other Partisans' Attitudes." Forthcoming at _Political Science Research and Methods_.
+`2025` **Dias, N.C.**, Druckman, J.N., & Levendusky, M.S. "Unraveling a 'Cancel Culture' Dynamic: When and Why Americans Sanction Offensive Speech." _the Journal of Politics_. [https://doi.org/10.1086/733004](https://doi.org/10.1086/733004).
 
-**Dias, N.C.**, Druckman, J.N., & Levendusky, M.S. "Unraveling a 'Cancel Culture' Dynamic: When and Why Americans Sanction Offensive Speech." Forthcoming at _the Journal of Politics_. [https://www.journals.uchicago.edu/doi/10.1086/733004](https://www.journals.uchicago.edu/doi/10.1086/733004).
+`2024` **Dias, N.C.**, Lelkes, Y., & Pearl, J. "American Partisans Vastly Underestimate the Diversity of Other Partisans' Attitudes." _Political Science Research and Methods_. [https://doi.org/10.1017/psrm.2024.36](https://doi.org/10.1017/psrm.2024.36).
 
-**Dias, N.C.**, Aarslew, L.F., Frederiksen, K.V.F., Lelkes, Y., Pradella, L., & Westwood, S.J. "Correcting misperceptions of partisan opponents is not effective at treating democratic ills." _PNAS Nexus_. [https://academic.oup.com/pnasnexus/article/3/8/pgae304/7730165](https://academic.oup.com/pnasnexus/article/3/8/pgae304/7730165).
+**Dias, N.C.**, Aarslew, L.F., Frederiksen, K.V.F., Lelkes, Y., Pradella, L., & Westwood, S.J. "Correcting misperceptions of partisan opponents is not effective at treating democratic ills." _PNAS Nexus_. [https://doi.org/10.1093/pnasnexus/pgae304](https://doi.org/10.1093/pnasnexus/pgae304).
 
 `2022` **Dias, N.C.** & Lelkes, Y. "The Nature of Affective Polarization: Disentangling Policy Disagreement from Partisan Identity." _American Journal of Political Science_. [https://doi.org/10.1111/ajps.12628](https://doi.org/10.1111/ajps.12628).
 
@@ -62,11 +62,11 @@ Led research on social bots targeting the 2017 UK General Election, devised soci
 **Dias, N.C.**, Pennycook, G. & Rand, D.G. "Emphasizing publishers does not effectively reduce susceptibility to misinformation on social media." _Harvard Kennedy School Misinformation Review_. [https://doi.org/10.37016/mr-2020-001](https://doi.org/10.37016/mr-2020-001).
 
 ### Working Papers
-**Dias, N.C.** "Do `Incompetent' Policy Attitudes Threaten Democracy?"
+**Dias, N.C.** "Do Not Dwell on Opinion Stability"
 
-**Dias, N.C.** "Do Citizens Know Enough to Form Competent Policy Attitudes?"
+**Dias, N.C.** "Does Public Opinion Over-Represent the Concerns of the Informed?"
 
-**Dias, N.C.** & Lelkes, Y. "Measuring Policy Understanding: Self-Assessments Match or Outperform Objective Measures." [https://osf.io/gnctw](https://osf.io/gnctw).
+**Dias, N.C.** "Do Citizens' Policy Opinions Match Their Goals? Applying a New Test of Vertical Constraint"
 
 
 
