@@ -9,7 +9,7 @@ Ph.D. Candidate at the University of Pennsylvania
 
 
 <div id="webaddress">
-<a href="https://niccdias.com/">niccdias.com</a>  |  <a href="mailto:niccdias@sas.upenn.edu">niccdias@sas.upenn.edu</a>  |  <a href="https://scholar.google.com/citations?user=XudGcdkAAAAJ">scholar.google.com</a>
+<a href="https://niccdias.github.io/">niccdias.github.io</a>  |  <a href="mailto:niccdias@sas.upenn.edu">niccdias@sas.upenn.edu</a>  |  <a href="https://scholar.google.com/citations?user=XudGcdkAAAAJ">scholar.google.com</a>
 </div>
 
 
