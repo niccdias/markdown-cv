@@ -4,12 +4,12 @@ title: Nicholas C. Dias
 ---
 
 # Nicholas C. Dias
-Ph.D. Candidate at the University of Pennsylvania
+Postdoctoral Fellow at Aarhus University
 
 
 
 <div id="webaddress">
-<a href="https://niccdias.github.io/">niccdias.github.io</a>  |  <a href="mailto:niccdias@sas.upenn.edu">niccdias@sas.upenn.edu</a>  |  <a href="https://scholar.google.com/citations?user=XudGcdkAAAAJ">scholar.google.com</a>
+<a href="https://niccdias.github.io/">niccdias.github.io</a>  |  <a href="mailto:niccdias@ps.au.dk">niccdias@ps.au.dk</a>  |  <a href="https://scholar.google.com/citations?user=XudGcdkAAAAJ">scholar.google.com</a>
 </div>
 
 
