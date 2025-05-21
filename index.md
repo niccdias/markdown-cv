@@ -15,7 +15,7 @@ Ph.D. Candidate at the University of Pennsylvania
 
 
 ## Education
-`Present` **Ph.D. in Political Science and Communication, University of Pennsylvania**
+`2025` **Ph.D. in Political Science and Communication, University of Pennsylvania**
 
 Advisors: Yphtach Lelkes and Matthew S. Levendusky.
 
@@ -34,6 +34,10 @@ Graduated with Highest Honors. Dean’s Honor List for 8 quarters. Phi Beta Kapp
 
 
 ## Research Employment
+`Present` **Postdoctoral Fellow, Department of Political Science, Aarhus University**
+
+Co-authoring research with the PARTYOPINION project on how citizens use party cues to infer information about public policies.
+
 `2017–19` **Researcher, Shorenstein Center on Media Politics and Public Policy, Harvard Kennedy School of Government**
 
 Led research undertaken by the Center’s anti-misinformation initiative, the Information Disorder (ID) Lab, and helped devise the social-network monitoring processes for the Lab. 
