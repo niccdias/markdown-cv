@@ -14,6 +14,21 @@ Ph.D. Candidate at the University of Pennsylvania
 
 
 
+## Research Employment
+`Present` **Postdoctoral Fellow, Department of Political Science, Aarhus University**
+
+Co-authoring research with the PARTYOPINION project on how citizens use party cues to infer information about public policies.
+
+`2017–19` **Researcher, Shorenstein Center on Media Politics and Public Policy, Harvard Kennedy School of Government**
+
+Led research undertaken by the Center’s anti-misinformation initiative, the Information Disorder (ID) Lab, and helped devise the social-network monitoring processes for the Lab. 
+
+`2017` **First Draft News, Senior Research Fellow**
+
+Led research on social bots targeting the 2017 UK General Election, devised social-network monitoring processes for First Draft's election projects, and wrote editorials and teaching materials.
+
+
+
 ## Education
 `2025` **Ph.D. in Political Science and Communication, University of Pennsylvania**
 
@@ -30,21 +45,6 @@ Concentration in computational and data journalism. Graduated with Honors.
 Honors Thesis: “Resolving adult attachment theory and relational dialectics: Is the need for independence always present?”
 
 Graduated with Highest Honors. Dean’s Honor List for 8 quarters. Phi Beta Kappa and Phi Kappa Phi.
-
-
-
-## Research Employment
-`Present` **Postdoctoral Fellow, Department of Political Science, Aarhus University**
-
-Co-authoring research with the PARTYOPINION project on how citizens use party cues to infer information about public policies.
-
-`2017–19` **Researcher, Shorenstein Center on Media Politics and Public Policy, Harvard Kennedy School of Government**
-
-Led research undertaken by the Center’s anti-misinformation initiative, the Information Disorder (ID) Lab, and helped devise the social-network monitoring processes for the Lab. 
-
-`2017` **First Draft News, Senior Research Fellow**
-
-Led research on social bots targeting the 2017 UK General Election, devised social-network monitoring processes for First Draft's election projects, and wrote editorials and teaching materials.
 
 
 
