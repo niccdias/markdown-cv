@@ -21,11 +21,11 @@ Co-authoring research with the PARTYOPINION project on how citizens use party cu
 
 `2017–19` **Researcher, Shorenstein Center on Media Politics and Public Policy, Harvard Kennedy School of Government**
 
-Led research undertaken by the Center’s anti-misinformation initiative, the Information Disorder (ID) Lab, and helped devise the social-network monitoring processes for the Lab. 
+Led research undertaken by the Center’s anti-misinformation initiative, the Information Disorder (ID) Lab. Developed systems to monitor social media for misinformation. Taught workshops for journalists on how to monitor social media for misinformation, check the authenticity of claims and images, and write effective fact-checks.
 
 `2017` **First Draft News, Senior Research Fellow**
 
-Led research on social bots targeting the 2017 UK General Election, devised social-network monitoring processes for First Draft's election projects, and wrote editorials and teaching materials.
+Led research on social bots targeting the 2017 UK General Election. Devised social-network monitoring processes for First Draft's election projects. Wrote editorials and teaching materials. Taught workshops for journalists on how to monitor social media for misinformation, check the authenticity of claims and images, and write effective fact-checks.
 
 
 
