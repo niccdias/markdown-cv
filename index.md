@@ -65,6 +65,10 @@ Led research on social bots targeting the 2017 UK General Election. Devised soci
 
 **Dias, N.C.**, Pennycook, G. & Rand, D.G. "Emphasizing publishers does not effectively reduce susceptibility to misinformation on social media." _Harvard Kennedy School Misinformation Review_. [https://doi.org/10.37016/mr-2020-001](https://doi.org/10.37016/mr-2020-001).
 
+### Conditionally Accepted
+`2025` **Dias, N.C.**, Lucas, J., & Sheffer, L. "“Beyond the Mean: How Thinking About The
+Distribution of Public Opinions Reduces Politicians' Perceptual Errors." _Political Science Research and Methods_.
+
 ### Working Papers
 **Dias, N.C.** "Are Principled Policy Opinions More Likely to Stick?"
 
