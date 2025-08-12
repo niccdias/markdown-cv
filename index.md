@@ -150,7 +150,7 @@ Baum, M. A., Lazer, D., Grinberg, N., Swire-Thompson, B., Beauchamp, N., **Dias,
 ## Teaching
 `2025` Seminar Lecturer. Why Did Americans Vote for Trump? The Impact of American Institutions and Voter Psychology. 
 
-`2021` Teaching Assistant. Introduction to Politics. Lecturer Prof. Michele Margolis. University of Pennsylvania.
+`2021` Teaching Assistant. Introduction to American Politics. Lecturer Prof. Michele Margolis. University of Pennsylvania.
 
 `2020` Teaching Assistant. Introduction to Data Science. Lecturers Marc Trussler and Stephen Pettigrew. University of Pennsylvania.
 
