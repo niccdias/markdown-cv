@@ -14,21 +14,6 @@ Postdoctoral Fellow at Aarhus University
 
 
 
-## Research Employment
-`Present` **Postdoctoral Fellow, Department of Political Science, Aarhus University**
-
-Co-authoring research with the PARTYOPINION project on how citizens use party cues to infer information about public policies.
-
-`2017–19` **Researcher, Shorenstein Center on Media Politics and Public Policy, Harvard Kennedy School of Government**
-
-Led research undertaken by the Center’s anti-misinformation initiative, the Information Disorder (ID) Lab. Developed systems to monitor social media for misinformation. Taught workshops for journalists on how to monitor social media for misinformation, check the authenticity of claims and images, and write effective fact-checks.
-
-`2017` **First Draft News, Senior Research Fellow**
-
-Led research on social bots targeting the 2017 UK General Election. Devised social-network monitoring processes for First Draft's election projects. Wrote editorials and teaching materials. Taught workshops for journalists on how to monitor social media for misinformation, check the authenticity of claims and images, and write effective fact-checks.
-
-
-
 ## Education
 `2025` **Ph.D. in Political Science and Communication, University of Pennsylvania**
 
@@ -45,6 +30,21 @@ Concentration in computational and data journalism. Graduated with Honors.
 Honors Thesis: “Resolving adult attachment theory and relational dialectics: Is the need for independence always present?”
 
 Graduated with Highest Honors. Dean’s Honor List for 8 quarters. Phi Beta Kappa and Phi Kappa Phi.
+
+
+
+## Research Employment
+`Present` **Postdoctoral Fellow, Department of Political Science, Aarhus University**
+
+Co-authoring research with the PARTYOPINION project on how citizens use party cues to infer information about public policies.
+
+`2017–19` **Researcher, Shorenstein Center on Media Politics and Public Policy, Harvard Kennedy School of Government**
+
+Led research undertaken by the Center’s anti-misinformation initiative, the Information Disorder (ID) Lab. Developed systems to monitor social media for misinformation. Taught workshops for journalists on how to monitor social media for misinformation, check the authenticity of claims and images, and write effective fact-checks.
+
+`2017` **First Draft News, Senior Research Fellow**
+
+Led research on social bots targeting the 2017 UK General Election. Devised social-network monitoring processes for First Draft's election projects. Wrote editorials and teaching materials. Taught workshops for journalists on how to monitor social media for misinformation, check the authenticity of claims and images, and write effective fact-checks.
 
 
 
@@ -66,11 +66,11 @@ Graduated with Highest Honors. Dean’s Honor List for 8 quarters. Phi Beta Kapp
 **Dias, N.C.**, Pennycook, G. & Rand, D.G. "Emphasizing publishers does not effectively reduce susceptibility to misinformation on social media." _Harvard Kennedy School Misinformation Review_. [https://doi.org/10.37016/mr-2020-001](https://doi.org/10.37016/mr-2020-001).
 
 ### Working Papers
-**Dias, N.C.** "Do Not Dwell on Opinion Stability"
+**Dias, N.C.** "Are Principled Policy Opinions More Likely to Stick?"
 
-**Dias, N.C.** "Does Public Opinion Over-Represent the Concerns of the Informed?"
+**Dias, N.C.** "Do Inequalities in Factual Policy Knowledge Matter?"
 
-**Dias, N.C.** "Do Citizens' Policy Opinions Match Their Goals? Applying a New Test of Vertical Constraint"
+**Dias, N.C.** "Do Citizens' Policy Opinions Match Their Principles?"
 
 
 
@@ -144,20 +144,24 @@ Baum, M. A., Lazer, D., Grinberg, N., Swire-Thompson, B., Beauchamp, N., **Dias,
 
 
 ## Teaching
-`2021` Teaching Assistant. Introduction to Politics. Prof. Michele Margolis.
+`2025` Seminar Lecturer. Why Did Americans Vote for Trump? The Impact of American Institutions and Voter Psychology. 
 
-`2020` Teaching Assistant. Introduction to Data Science. Instructors Marc Trussler and Stephen Pettigrew.
+`2021` Teaching Assistant. Introduction to Politics. Lecturer Prof. Michele Margolis. University of Pennsylvania.
+
+`2020` Teaching Assistant. Introduction to Data Science. Lecturers Marc Trussler and Stephen Pettigrew. University of Pennsylvania.
 
 
 
 ## Service to the Department
+`2025` Organizer, Political Behavior Workshop. Department of Political Science, Aarhus University.
+
 `2022–23` Representative, Graduate Student Organization. Department of Political Science, University of Pennsylvania.
 
-`2021–22` Event Coordinator, Democracy and Information Group. Annenberg School for Communication.
+`2021–22` Event Coordinator, Democracy and Information Group. Annenberg School for Communication, University of Pennsylvania.
 
-`2020` President, Graduate Student Council. Annenberg School for Communication.
+`2020` President, Graduate Student Council. Annenberg School for Communication, University of Pennsylvania.
 
-`2019–20` Treasurer, Graduate Student Council. Annenberg School for Communication.
+`2019–20` Treasurer, Graduate Student Council. Annenberg School for Communication, University of Pennsylvania.
 
 
 
