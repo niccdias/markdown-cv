@@ -15,13 +15,15 @@ Postdoctoral Fellow at Aarhus University
 
 
 ## Education
-`2025` **Ph.D. in Political Science and Communication, University of Pennsylvania**
+`May 2025` **Ph.D. in Political Science and Communication, University of Pennsylvania**
+
+Dissertation: "The Underestimated Public: How Scholars Overlooked the Principles in Citizens' Policy Opinions"
 
 Advisors: Yphtach Lelkes and Matthew S. Levendusky.
 
 `2017` **M.S. in Journalism, Columbia University**
 
-Master's Project: “Companies, countries still violating UN shipping sanctions against North Korea.”
+Master's Project: "Companies, countries still violating UN shipping sanctions against North Korea."
 
 Concentration in computational and data journalism. Graduated with Honors.
 
