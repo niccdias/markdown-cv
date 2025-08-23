@@ -23,13 +23,13 @@ Advisors: Yphtach Lelkes and Matthew S. Levendusky.
 
 `2017` **M.S. in Journalism, Columbia University**
 
-Master's Project: "Companies, countries still violating UN shipping sanctions against North Korea."
+Master's Project: "Companies, Countries Still Violating UN Shipping Sanctions Against North Korea."
 
 Concentration in computational and data journalism. Graduated with Honors.
 
 `2015` **B.A. in Psychology and Communication, University of California, Davis**
 
-Honors Thesis: “Resolving adult attachment theory and relational dialectics: Is the need for independence always present?”
+Honors Thesis: “Resolving Adult Attachment Theory and Relational Dialectics: Is the Need for Independence Always Present?”
 
 Graduated with Highest Honors. Dean’s Honor List for 8 quarters. Phi Beta Kappa and Phi Kappa Phi.
 
@@ -46,7 +46,7 @@ Led research undertaken by the Center’s anti-misinformation initiative, the In
 
 `2017` **First Draft News, Senior Research Fellow**
 
-Led research on social bots targeting the 2017 UK General Election. Devised social-network monitoring processes for First Draft's election projects. Wrote editorials and teaching materials. Taught workshops for journalists on how to monitor social media for misinformation, check the authenticity of claims and images, and write effective fact-checks.
+Led research on social bots targeting the 2017 UK General Election. Devised social-network monitoring processes for First Draft's election projects. Wrote editorials and teaching materials. Led workshops for journalists on tracking misinformation on social media, verifying claims and images, and writing effective fact-checks.
 
 
 
