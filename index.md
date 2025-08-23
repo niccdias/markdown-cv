@@ -52,7 +52,7 @@ Led research on social bots targeting the 2017 UK General Election. Devised soci
 
 ## Research
 
-### Peer-Reviewed Articles
+### Peer-Reviewed
 `2025` **Dias, N.C.**, Druckman, J.N., & Levendusky, M.S. "Unraveling a 'Cancel Culture' Dynamic: When and Why Americans Sanction Offensive Speech." _The Journal of Politics_. [https://doi.org/10.1086/733004](https://doi.org/10.1086/733004).
 
 `2024` **Dias, N.C.**, Lelkes, Y., & Pearl, J. "American Partisans Vastly Underestimate the Diversity of Other Partisans' Attitudes." _Political Science Research and Methods_. [https://doi.org/10.1017/psrm.2024.36](https://doi.org/10.1017/psrm.2024.36).
@@ -121,7 +121,7 @@ Distribution of Public Opinions Reduces Politicians' Perceptual Errors." _Politi
 
 
 
-## Selected Op-Eds and Reports
+## Op-Eds and Reports
 `2017` **Dias, N.C.** "How Academics Can Help Platforms Tackle Disinformation.” Understanding and Addressing the Disinformation Ecosystem, University of Pennsylvania, Philadelphia, PA. [https://bit.ly/3ziIFcU](https://bit.ly/3ziIFcU).
 
 **Dias, N.C.** “The Era of Whatsapp Propaganda Is Upon Us.” Foreign Policy. [https://foreignpolicy.com/2017/08/17/the-era-of-whatsapp-propaganda-is-upon-us](https://foreignpolicy.com/2017/08/17/the-era-of-whatsapp-propaganda-is-upon-us).
