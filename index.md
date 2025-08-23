@@ -68,8 +68,7 @@ Led research on social media bot activity during the 2017 UK General Election. D
 **Dias, N.C.**, Pennycook, G. & Rand, D.G. "Emphasizing publishers does not effectively reduce susceptibility to misinformation on social media." _Harvard Kennedy School Misinformation Review_. [https://doi.org/10.37016/mr-2020-001](https://doi.org/10.37016/mr-2020-001).
 
 ### Conditionally Accepted
-`2025` **Dias, N.C.**, Lucas, J., & Sheffer, L. "“Beyond the Mean: How Thinking About The
-Distribution of Public Opinions Reduces Politicians' Perceptual Errors." _Political Science Research and Methods_.
+`2025` **Dias, N.C.**, Lucas, J., & Sheffer, L. "Beyond the Mean: How Thinking About The Distribution of Public Opinions Reduces Politicians' Perceptual Errors." _Political Science Research and Methods_.
 
 ### Working Papers
 **Dias, N.C.** "Are Principled Policy Opinions More Likely to Stick?"
@@ -81,7 +80,13 @@ Distribution of Public Opinions Reduces Politicians' Perceptual Errors." _Politi
 
 
 ## Invited Talks
-`2024` "Correcting the Illusion of Incompetence: `Just' Preferences as a Fairer Standard of Citizen Competence." Midwestern Political Science Association Conference.
+`2025` "Are Principled Policy Opinions More Likely to Stick?" American Political Science Association Conference.
+
+"Do Citizens Know Enough to Form Competent Policy Opinions?" Midwestern Political Science Association Conference.
+
+`2024` "Beyond the Mean: How Thinking About The Distribution of Public Opinions Reduces Politicians' Perceptual Errors." American Political Science Association Conference.
+
+"Correcting the Illusion of Incompetence: `Just' Preferences as a Fairer Standard of Citizen Competence." Midwestern Political Science Association Conference.
 
 "Distributive Justice Principles Broadly Structure the Mass Public's Policy Preferences." Midwestern Political Science Association Conference.
 
