@@ -42,11 +42,11 @@ Co-authoring research with the PARTYOPINION project on how citizens use party cu
 
 `2017–19` **Researcher, Shorenstein Center on Media Politics and Public Policy, Harvard Kennedy School of Government**
 
-Led research undertaken by the Center’s anti-misinformation initiative, the Information Disorder (ID) Lab. Developed systems to monitor social media for misinformation. Taught workshops for journalists on how to monitor social media for misinformation, check the authenticity of claims and images, and write effective fact-checks.
+Led research undertaken by the Center’s anti-misinformation initiative, the Information Disorder (ID) Lab. Developed systems to monitor social media for misinformation. Organized training sessions for journalists on advanced fact-checking techniques and misinformation detection. 
 
 `2017` **First Draft News, Senior Research Fellow**
 
-Led research on social bots targeting the 2017 UK General Election. Devised social-network monitoring processes for First Draft's election projects. Wrote editorials and teaching materials. Led workshops for journalists on tracking misinformation on social media, verifying claims and images, and writing effective fact-checks.
+Led research on social media bot activity during the 2017 UK General Election. Developed systems to monitor social media for misinformation. Led workshops for journalists on tracking misinformation on social media, verifying claims and images, and writing effective fact-checks. Wrote editorials and teaching resources. 
 
 
 
@@ -133,7 +133,7 @@ Distribution of Public Opinions Reduces Politicians' Perceptual Errors." _Politi
 ## Awards & Funding
 `2025` Honorable Mention for Best Paper in Political Behavior. "Do Citizens' Policy Opinions Match Their Goals? Applying a New Test of Vertical Constraint." Midwestern Political Science Association. 
 
-`2024` Junior Fellowship. Institute for Humane Studies.
+`2024` Junior Fellowship. Institute for Humane Studies. $6,000.
 
 `2023` Publication Accelerator Grant. Institute for Humane Studies. $5,000.
 
@@ -177,7 +177,7 @@ Baum, M. A., Lazer, D., Grinberg, N., Swire-Thompson, B., Beauchamp, N., **Dias,
 `2022` Member, Distinguished Junior Scholar Award Committee, Political Psychology Division, American Political Science Association.
 
 ### Ad Hoc Reviewer
-American Political Science Review, American Journal of Political Science, Journal of Politics, Political Behavior, Public Opinion Quarterly, Research & Politics, Harvard Kennedy School Misinformation Review, Time-Sharing Experiments for the Social Sciences.
+American Political Science Review, American Journal of Political Science, Journal of Politics, British Journal of Political Science, Political Behavior, Electoral Studies, Journal of Experimental Political Science, Public Opinion Quarterly, Research & Politics, Harvard Kennedy School Misinformation Review, Time-Sharing Experiments for the Social Sciences.
 
 
 
