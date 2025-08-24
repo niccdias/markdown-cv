@@ -86,7 +86,7 @@ Led research on social media bot activity during the 2017 UK General Election. D
 
 `2024` "Beyond the Mean: How Thinking About The Distribution of Public Opinions Reduces Politicians' Perceptual Errors." American Political Science Association Conference.
 
-"Correcting the Illusion of Incompetence: `Just' Preferences as a Fairer Standard of Citizen Competence." Midwestern Political Science Association Conference.
+"Correcting the Illusion of Incompetence: 'Just' Preferences as a Fairer Standard of Citizen Competence." Midwestern Political Science Association Conference.
 
 "Distributive Justice Principles Broadly Structure the Mass Public's Policy Preferences." Midwestern Political Science Association Conference.
 
@@ -102,7 +102,7 @@ Led research on social media bot activity during the 2017 UK General Election. D
 
 "Americans Misperceive the Diversity, Not the Extremity, of Partisans' Attitudes." Midwestern Political Science Association Conference.
 
-`2022` "Is it Really that Easy? Reconsidering 'Easy' and 'Hard' Issues in American Politics." American Political Science Association Conference.
+`2022` "Is it Really That Easy? Reconsidering 'Easy' and 'Hard' Issues in American Politics." American Political Science Association Conference.
 
 "Speech Norms in Contemporary America: The Realities and Misperceptions of 'Cancel Culture'." Aarhus ’22 Conference on Online Hostility and Bystanders.
 
@@ -129,7 +129,7 @@ Led research on social media bot activity during the 2017 UK General Election. D
 ## Op-Eds and Reports
 `2017` **Dias, N.C.** "How Academics Can Help Platforms Tackle Disinformation.” Understanding and Addressing the Disinformation Ecosystem, University of Pennsylvania, Philadelphia, PA. [https://bit.ly/3ziIFcU](https://bit.ly/3ziIFcU).
 
-**Dias, N.C.** “The Era of Whatsapp Propaganda Is Upon Us.” Foreign Policy. [https://foreignpolicy.com/2017/08/17/the-era-of-whatsapp-propaganda-is-upon-us](https://foreignpolicy.com/2017/08/17/the-era-of-whatsapp-propaganda-is-upon-us).
+**Dias, N.C.** “The Era of WhatsApp Propaganda Is Upon Us.” Foreign Policy. [https://foreignpolicy.com/2017/08/17/the-era-of-whatsapp-propaganda-is-upon-us](https://foreignpolicy.com/2017/08/17/the-era-of-whatsapp-propaganda-is-upon-us).
 
 **Dias, N.C.**, Kamal, R. & Bastien, L. “What makes a good FOIA request? We studied 33,000 to find out.” Columbia Journalism Review. [https://www.cjr.org/analysis/foia-request-how-to-study.php](https://www.cjr.org/analysis/foia-request-how-to-study.php).
 
