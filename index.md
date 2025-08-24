@@ -75,7 +75,7 @@ Led research on social media bot activity during the 2017 UK General Election. D
 
 **Dias, N.C.** "Do Inequalities in Factual Policy Knowledge Matter?"
 
-**Dias, N.C.** "Do Citizens' Policy Opinions Match Their Principles?"
+**Dias, N.C.** "Do Citizens' Policy Opinions Match Their Principles? Applying a New Test of Vertical Constraint"
 
 
 
