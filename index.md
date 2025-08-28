@@ -168,6 +168,8 @@ Baum, M. A., Lazer, D., Grinberg, N., Swire-Thompson, B., Beauchamp, N., **Dias,
 
 `2022–23` Representative, Graduate Student Organization. Department of Political Science, University of Pennsylvania.
 
+`2022–23` Graduate Student Representative, Professional Development Committee. Annenberg School for Communication, University of Pennsylvania.
+
 `2021–22` Event Coordinator, Democracy and Information Group. Annenberg School for Communication, University of Pennsylvania.
 
 `2020` President, Graduate Student Council. Annenberg School for Communication, University of Pennsylvania.
