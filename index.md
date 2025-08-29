@@ -71,11 +71,11 @@ Led research on social media bot activity during the 2017 UK General Election. D
 `2025` **Dias, N.C.**, Lucas, J., & Sheffer, L. "Beyond the Mean: How Thinking About The Distribution of Public Opinions Reduces Politicians' Perceptual Errors." _Political Science Research and Methods_.
 
 ### Working Papers
-**Dias, N.C.** "Are Principled Policy Opinions More Likely to Stick?"
+**Dias, N.C.** "Are Principled Policy Opinions More Likely to Stick?" [http://bit.ly/461G1br](http://bit.ly/461G1br).
 
-**Dias, N.C.** "Do Inequalities in Factual Policy Knowledge Matter?"
+**Dias, N.C.** "Do Inequalities in Factual Policy Knowledge Matter?" [http://bit.ly/4lNqKR5](http://bit.ly/4lNqKR5).
 
-**Dias, N.C.** "Do Citizens' Policy Opinions Match Their Principles? Applying a New Test of Vertical Constraint"
+**Dias, N.C.** "Do Citizens' Policy Opinions Match Their Principles?" [http://bit.ly/4nr8w9B](http://bit.ly/4nr8w9B).
 
 
 
