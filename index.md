@@ -15,7 +15,7 @@ Postdoctoral Fellow at Aarhus University
 
 
 ## Education
-`May 2025` **Ph.D. in Political Science and Communication, University of Pennsylvania**
+`2025` **Ph.D. in Political Science and Communication, University of Pennsylvania**
 
 Dissertation: "The Underestimated Public: How Scholars Overlooked the Principles in Citizens' Policy Opinions"
 
