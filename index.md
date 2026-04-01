@@ -70,11 +70,11 @@ Led research on social media bot activity during the 2017 UK General Election. D
 **Dias, N.C.**, Pennycook, G. & Rand, D.G. "Emphasizing publishers does not effectively reduce susceptibility to misinformation on social media." _Harvard Kennedy School Misinformation Review_. [https://doi.org/10.37016/mr-2020-001](https://doi.org/10.37016/mr-2020-001).
 
 ### Working Papers
-**Dias, N.C.** "Don't Judge Citizens for Changing Their Opinions" [http://bit.ly/461G1br](http://bit.ly/461G1br).
+**Dias, N.C.** "Don't Judge Citizens for Changing Their Opinions" [http://bit.ly/461G1br](https://niccdias.github.io/assets/pdf/dias_stability_working.pdf).
 
-**Dias, N.C.** "Do Inequalities in Factual Policy Knowledge Matter?" [http://bit.ly/4lNqKR5](http://bit.ly/4lNqKR5).
+**Dias, N.C.** "Do Inequalities in Factual Policy Knowledge Matter?" [http://bit.ly/4lNqKR5](https://niccdias.github.io/assets/pdf/dias_know_working.pdf).
 
-**Dias, N.C.** "Do Citizens' Policy Opinions Match Their Principles?" [http://bit.ly/4nr8w9B](http://bit.ly/4nr8w9B).
+**Dias, N.C.** "Do Citizens' Policy Opinions Match Their Principles?" [http://bit.ly/4nr8w9B](https://niccdias.github.io/assets/pdf/dias_constraint_working.pdf).
 
 
 
