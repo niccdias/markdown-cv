@@ -53,6 +53,8 @@ Led research on social media bot activity during the 2017 UK General Election. D
 ## Research
 
 ### Peer-Reviewed
+`2026` **Dias, N.C.**, Lucas, J., & Sheffer, L. "Beyond the Mean: How Thinking About The Distribution of Public Opinions Reduces Politicians' Perceptual Errors." _Political Science Research and Methods_. [https://doi.org/10.1017/psrm.2025.10069](https://doi.org/10.1017/psrm.2025.10069).
+
 `2025` **Dias, N.C.**, Druckman, J.N., & Levendusky, M.S. "Unraveling a 'Cancel Culture' Dynamic: When and Why Americans Sanction Offensive Speech." _The Journal of Politics_. [https://doi.org/10.1086/733004](https://doi.org/10.1086/733004).
 
 `2024` **Dias, N.C.**, Lelkes, Y., & Pearl, J. "American Partisans Vastly Underestimate the Diversity of Other Partisans' Attitudes." _Political Science Research and Methods_. [https://doi.org/10.1017/psrm.2024.36](https://doi.org/10.1017/psrm.2024.36).
@@ -67,11 +69,8 @@ Led research on social media bot activity during the 2017 UK General Election. D
 
 **Dias, N.C.**, Pennycook, G. & Rand, D.G. "Emphasizing publishers does not effectively reduce susceptibility to misinformation on social media." _Harvard Kennedy School Misinformation Review_. [https://doi.org/10.37016/mr-2020-001](https://doi.org/10.37016/mr-2020-001).
 
-### Conditionally Accepted
-`2025` **Dias, N.C.**, Lucas, J., & Sheffer, L. "Beyond the Mean: How Thinking About The Distribution of Public Opinions Reduces Politicians' Perceptual Errors." _Political Science Research and Methods_.
-
 ### Working Papers
-**Dias, N.C.** "Are Principled Opinions More Likely to Stick?" [http://bit.ly/461G1br](http://bit.ly/461G1br).
+**Dias, N.C.** "Don't Judge Citizens for Changing Their Opinions" [http://bit.ly/461G1br](http://bit.ly/461G1br).
 
 **Dias, N.C.** "Do Inequalities in Factual Policy Knowledge Matter?" [http://bit.ly/4lNqKR5](http://bit.ly/4lNqKR5).
 
