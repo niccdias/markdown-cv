@@ -36,6 +36,10 @@ Graduated with Highest Honors. Dean’s Honor List for 8 quarters. Phi Beta Kapp
 
 
 ## Research Employment
+`2027–` **Assistant Professor, Department of Political Science, Stony Brook University**
+
+`2026–Present` **Visiting Researcher, Department of Political Science, Stony Brook University**
+
 `Present` **Postdoctoral Fellow, Department of Political Science, Aarhus University**
 
 Co-authoring research with the PARTYOPINION project on how citizens use party cues to infer information about public policies.
@@ -55,9 +59,9 @@ Led research on social media bot activity during the 2017 UK General Election. D
 ### Peer-Reviewed
 `2026` **Dias, N.C.**, Lucas, J., & Sheffer, L. "Beyond the Mean: How Thinking About The Distribution of Public Opinions Reduces Politicians' Perceptual Errors." _Political Science Research and Methods_. [https://doi.org/10.1017/psrm.2025.10069](https://doi.org/10.1017/psrm.2025.10069).
 
-`2025` **Dias, N.C.**, Druckman, J.N., & Levendusky, M.S. "Unraveling a 'Cancel Culture' Dynamic: When and Why Americans Sanction Offensive Speech." _The Journal of Politics_. [https://doi.org/10.1086/733004](https://doi.org/10.1086/733004).
+`2025` **Dias, N.C.**, Druckman, J.N., & Levendusky, M.S. "Unraveling a 'Cancel Culture' Dynamic: When, Why, and Which Americans Sanction Offensive Speech." _The Journal of Politics_. [https://doi.org/10.1086/733004](https://doi.org/10.1086/733004).
 
-`2024` **Dias, N.C.**, Lelkes, Y., & Pearl, J. "American Partisans Vastly Underestimate the Diversity of Other Partisans' Attitudes." _Political Science Research and Methods_. [https://doi.org/10.1017/psrm.2024.36](https://doi.org/10.1017/psrm.2024.36).
+`2024` **Dias, N.C.**, Lelkes, Y., & Pearl, J. "American Partisans Vastly Underestimate the Diversity of Other Partisans' Policy Attitudes." _Political Science Research and Methods_. [https://doi.org/10.1017/psrm.2024.36](https://doi.org/10.1017/psrm.2024.36).
 
 **Dias, N.C.**, Aarslew, L.F., Frederiksen, K.V.F., Lelkes, Y., Pradella, L., & Westwood, S.J. "Correcting misperceptions of partisan opponents is not effective at treating democratic ills." _PNAS Nexus_. [https://doi.org/10.1093/pnasnexus/pgae304](https://doi.org/10.1093/pnasnexus/pgae304).
 
@@ -70,58 +74,71 @@ Led research on social media bot activity during the 2017 UK General Election. D
 **Dias, N.C.**, Pennycook, G. & Rand, D.G. "Emphasizing publishers does not effectively reduce susceptibility to misinformation on social media." _Harvard Kennedy School Misinformation Review_. [https://doi.org/10.37016/mr-2020-001](https://doi.org/10.37016/mr-2020-001).
 
 ### Working Papers
-**Dias, N.C.** "Don't Judge Citizens for Changing Their Opinions" [http://bit.ly/461G1br](https://niccdias.github.io/assets/pdf/dias_stability_working.pdf).
+**Dias, N.C.** "Don't Judge Citizens for Changing Their Opinions" [https://niccdias.github.io/assets/pdf/dias_stability_working.pdf](https://niccdias.github.io/assets/pdf/dias_stability_working.pdf).
 
-**Dias, N.C.** "Do Inequalities in Factual Policy Knowledge Matter?" [http://bit.ly/4lNqKR5](https://niccdias.github.io/assets/pdf/dias_know_working.pdf).
+**Dias, N.C.** "Do Inequalities in Factual Policy Knowledge Matter?" [https://niccdias.github.io/assets/pdf/dias_know_working.pdf](https://niccdias.github.io/assets/pdf/dias_know_working.pdf).
 
-**Dias, N.C.** "Do Citizens' Policy Opinions Match Their Principles?" [http://bit.ly/4nr8w9B](https://niccdias.github.io/assets/pdf/dias_constraint_working.pdf).
+**Dias, N.C.** "Do Citizens' Policy Opinions Match Their Principles?" [https://niccdias.github.io/assets/pdf/dias_constraint_working.pdf](https://niccdias.github.io/assets/pdf/dias_constraint_working.pdf).
 
 
 
 ## Invited Talks
-`2025` "Are Principled Policy Opinions More Likely to Stick?" American Political Science Association Conference.
+`2026` "Don't Judge Citizens for Changing Their Opinions." Guest lecture at the University of Stuttgart.
 
-"Do Citizens Know Enough to Form Competent Policy Opinions?" Midwestern Political Science Association Conference.
+"Do Inequalities in Factual Policy Knowledge Matter?" PARTISAN Research Workshop, University of Vienna.
 
-`2024` "Beyond the Mean: How Thinking About The Distribution of Public Opinions Reduces Politicians' Perceptual Errors." American Political Science Association Conference.
-
-"Correcting the Illusion of Incompetence: 'Just' Preferences as a Fairer Standard of Citizen Competence." Midwestern Political Science Association Conference.
-
-"Distributive Justice Principles Broadly Structure the Mass Public's Policy Preferences." Midwestern Political Science Association Conference.
-
-`2023` "The Currency of Distributive Justice in Real-World Policy Discussions." PPE Society Seventh Annual Meeting.
-
-"Fair Judgments of Principled Preferences: How Distributive Justice Influences Citizens' Policy Preferences." Talk for the Aarhus University Political Behavior section.
-
-"American Partisans Vastly Underestimate the Diversity of Other Partisans’ Attitudes." Nordic Workshop on Political Behavior.
-
-"Americans Misperceive the Diversity, Not the Extremity, of Partisans' Attitudes." American Political Science Association Conference.
+`2023` "Fair Judgments of Principled Preferences: How Distributive Justice Influences Citizens' Policy Preferences." Talk for the Aarhus University Political Behavior section.
 
 "Why the Mass Public Values Each Other's Policy Preferences." Junior Americanist Workshop.
 
-"Americans Misperceive the Diversity, Not the Extremity, of Partisans' Attitudes." Midwestern Political Science Association Conference.
-
-`2022` "Is it Really That Easy? Reconsidering 'Easy' and 'Hard' Issues in American Politics." American Political Science Association Conference.
-
-"Speech Norms in Contemporary America: The Realities and Misperceptions of 'Cancel Culture'." Aarhus ’22 Conference on Online Hostility and Bystanders.
-
-"What Drives Cancel Culture?" American Political Science Association Conference.
-
-"Is it Really that Easy? Reconsidering 'Easy' and 'Hard' Issues in American Politics." Midwestern Political Science Association Conference.
-
-"Are You Who I Think? Using Policy Preferences and Values to Judge Others." Talk at the University of Massachusetts.
+`2022` "Are You Who I Think? Using Policy Preferences and Values to Judge Others." Talk at the University of Massachusetts.
 
 "Explicating and Reconsidering the Easy-Hard Issue Distinction in American Politics." Talk at the University of Amsterdam.
 
-`2018` "Monitoring for health misinformation on Nigerian social networks." Talk at Fake News that Harms conference in Abuja, Nigeria.
-
-"WhatsApp, disinformation and political violence in Kenya and India." Talk at George Washington University.
+`2018` "WhatsApp, disinformation and political violence in Kenya and India." Talk at George Washington University.
 
 `2017` "Hoaxes, memes & bots: Learning how to navigate our polluted information streams." Talk at Mount Holyoke College.
 
 "Verification and social media monitoring." Talk at Facebook Colombia.
 
 "Monitoring and mining Facebook and Twitter." Talk at Universidad Santo Tomas, Bogota, Colombia.
+
+
+
+## Conference Presentations
+`2026` "Do Inequalities in Factual Policy Knowledge Matter?" American Political Science Association Annual Meeting.
+
+"Do Inequalities in Factual Policy Knowledge Matter?" European Political Science Society Annual Conference.
+
+"Do Inequalities in Factual Policy Knowledge Matter?" Midwest Political Science Association Annual Conference.
+
+`2025` "Are Principled Policy Opinions More Likely to Stick?" American Political Science Association Annual Meeting.
+
+"Do Citizens Know Enough to Form Competent Policy Opinions?" Midwest Political Science Association Annual Conference.
+
+`2024` "Beyond the Mean: How Thinking About The Distribution of Public Opinions Reduces Politicians' Perceptual Errors." American Political Science Association Annual Meeting.
+
+"Correcting the Illusion of Incompetence: 'Just' Preferences as a Fairer Standard of Citizen Competence." Midwest Political Science Association Annual Conference.
+
+"Distributive Justice Principles Broadly Structure the Mass Public's Policy Preferences." Midwest Political Science Association Annual Conference.
+
+`2023` "The Currency of Distributive Justice in Real-World Policy Discussions." PPE Society Seventh Annual Meeting.
+
+"American Partisans Vastly Underestimate the Diversity of Other Partisans’ Attitudes." Nordic Workshop on Political Behavior.
+
+"Americans Misperceive the Diversity, Not the Extremity, of Partisans' Attitudes." American Political Science Association Annual Meeting.
+
+"Americans Misperceive the Diversity, Not the Extremity, of Partisans' Attitudes." Midwest Political Science Association Annual Conference.
+
+`2022` "Is it Really That Easy? Reconsidering 'Easy' and 'Hard' Issues in American Politics." American Political Science Association Annual Meeting.
+
+"Speech Norms in Contemporary America: The Realities and Misperceptions of 'Cancel Culture'." Aarhus ’22 Conference on Online Hostility and Bystanders.
+
+"What Drives Cancel Culture?" American Political Science Association Annual Meeting.
+
+"Is it Really that Easy? Reconsidering 'Easy' and 'Hard' Issues in American Politics." Midwest Political Science Association Annual Conference.
+
+`2018` "Monitoring for health misinformation on Nigerian social networks." Talk at Fake News that Harms conference in Abuja, Nigeria.
 
 
 
@@ -135,7 +152,7 @@ Led research on social media bot activity during the 2017 UK General Election. D
 
 
 ## Awards & Funding
-`2025` Honorable Mention for Best Paper in Political Behavior. "Do Citizens' Policy Opinions Match Their Goals? Applying a New Test of Vertical Constraint." Midwestern Political Science Association. 
+`2025` Honorable Mention for Best Paper in Political Behavior. "Do Citizens' Policy Opinions Match Their Goals? Applying a New Test of Vertical Constraint." Midwest Political Science Association.
 
 `2024` Junior Fellowship. Institute for Humane Studies. $6,000.
 
@@ -163,7 +180,7 @@ Baum, M. A., Lazer, D., Grinberg, N., Swire-Thompson, B., Beauchamp, N., **Dias,
 
 
 ## Service to the Department
-`2025` Organizer, Political Behavior Workshop. Department of Political Science, Aarhus University.
+`2025–Present` Organizer, Political Behavior Workshop. Department of Political Science, Aarhus University.
 
 `2022–23` Representative, Graduate Student Organization. Department of Political Science, University of Pennsylvania.
 
@@ -180,15 +197,18 @@ Baum, M. A., Lazer, D., Grinberg, N., Swire-Thompson, B., Beauchamp, N., **Dias,
 ## Service to the Discipline
 
 ### Committees
+`2025–26` Member, Best Paper Award Committee, Elections, Public Opinion, and Voting Behavior Section, American Political Science Association.
+
 `2022` Member, Distinguished Junior Scholar Award Committee, Political Psychology Division, American Political Science Association.
 
+### Conference Service
+`2026` Discussant, "Values and Belief Systems," Midwest Political Science Association Annual Conference.
+
 ### Ad Hoc Reviewer
-American Political Science Review, American Journal of Political Science, Journal of Politics, British Journal of Political Science, Political Behavior, Electoral Studies, Journal of Experimental Political Science, Public Opinion Quarterly, Research & Politics, Harvard Kennedy School Misinformation Review, Time-Sharing Experiments for the Social Sciences.
+American Political Science Review, American Journal of Political Science, Journal of Politics, British Journal of Political Science, Political Behavior, Electoral Studies, Journal of Experimental Political Science, Public Opinion Quarterly, Research & Politics, Harvard Kennedy School Misinformation Review, Time-Sharing Experiments for the Social Sciences, Nature Human Behaviour, Political Psychology, Journal of Quantitative Description: Digital Media, Political Communication, Political Science Research and Methods, Journal of Experimental Psychology: General.
 
 
 
 <!-- ### Footer
 
 Last updated: March 2023 -->
-
-
