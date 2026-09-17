@@ -40,7 +40,7 @@ Graduated with Highest Honors. Dean’s Honor List for 8 quarters. Phi Beta Kapp
 
 `2026–Present` **Visiting Researcher, Department of Political Science, Stony Brook University**
 
-`Present` **Postdoctoral Fellow, Department of Political Science, Aarhus University**
+`2025–Present` **Postdoctoral Fellow, Department of Political Science, Aarhus University**
 
 Co-authoring research with the PARTYOPINION project on how citizens use party cues to infer information about public policies.
 
@@ -200,9 +200,6 @@ Baum, M. A., Lazer, D., Grinberg, N., Swire-Thompson, B., Beauchamp, N., **Dias,
 `2025–26` Member, Best Paper Award Committee, Elections, Public Opinion, and Voting Behavior Section, American Political Science Association.
 
 `2022` Member, Distinguished Junior Scholar Award Committee, Political Psychology Division, American Political Science Association.
-
-### Conference Service
-`2026` Discussant, "Values and Belief Systems," Midwest Political Science Association Annual Conference.
 
 ### Ad Hoc Reviewer
 American Political Science Review, American Journal of Political Science, Journal of Politics, British Journal of Political Science, Political Behavior, Electoral Studies, Journal of Experimental Political Science, Public Opinion Quarterly, Research & Politics, Harvard Kennedy School Misinformation Review, Time-Sharing Experiments for the Social Sciences, Nature Human Behaviour, Political Psychology, Journal of Quantitative Description: Digital Media, Political Communication, Political Science Research and Methods, Journal of Experimental Psychology: General.
