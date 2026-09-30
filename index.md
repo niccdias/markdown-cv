@@ -4,7 +4,8 @@ title: Nicholas C. Dias
 ---
 
 # Nicholas C. Dias
-Postdoctoral Fellow at Aarhus University
+Postdoctoral Fellow at Aarhus University<br>
+Visiting Research Assistant Professor at Stony Brook University
 
 
 
