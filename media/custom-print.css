@@ -193,6 +193,7 @@ strong {
 #content {
 	margin: auto;
   	max-width: 900px;
+	padding-top: 0.5in;
 }
 
 
