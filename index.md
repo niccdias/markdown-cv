@@ -38,7 +38,7 @@ Graduated with Highest Honors. Dean’s Honor List for 8 quarters. Phi Beta Kapp
 ## Research Employment
 `2027–` **Assistant Professor, Department of Political Science, Stony Brook University**
 
-`2026–Present` **Visiting Researcher, Department of Political Science, Stony Brook University**
+`2026–Present` **Visiting Research Assistant Professor, Department of Political Science, Stony Brook University**
 
 `2025–Present` **Postdoctoral Fellow, Department of Political Science, Aarhus University**
 
